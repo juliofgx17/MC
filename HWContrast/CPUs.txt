@@ -1,0 +1,7791 @@
+Intel Core i9-7980XE @ 2.60GHz
+27,595
+	$2,099.99
+Intel Core i9-7960X @ 2.80GHz
+26,287
+	$1,700.02
+Intel Xeon E5-2679 v4 @ 2.50GHz
+25,236
+	$2,702.00*
+Intel Core i9-7940X @ 3.10GHz
+24,967
+	$1,399.98
+Intel Core i9-7920X @ 2.90GHz
+23,556
+	$1,180.78
+Intel Xeon E5-2699 v4 @ 2.20GHz
+23,362
+	$2,209.00
+Intel Core i9-7900X @ 3.30GHz
+22,604
+	$969.99
+Intel Xeon E5-2696 v3 @ 2.30GHz
+22,542
+	$2,498.00*
+Intel Xeon E5-2699 v3 @ 2.30GHz
+22,358
+	$3,805.02*
+AMD Ryzen Threadripper 1950X
+22,022
+	$799.00
+Intel Xeon E5-2697 v4 @ 2.30GHz
+21,830
+	$2,805.00
+Intel Xeon E5-2698 v4 @ 2.20GHz
+21,789
+	$3,226.00*
+Intel Xeon E5-2697 v3 @ 2.60GHz
+21,502
+	$2,661.90*
+Intel Xeon E5-2673 v4 @ 2.30GHz
+21,463
+	NA
+Intel Xeon E5-2696 v4 @ 2.20GHz
+21,446
+	$1,710.00
+Intel Xeon E5-2690 v4 @ 2.60GHz
+21,322
+	$2,133.99*
+Intel Xeon Gold 6136 @ 3.00GHz
+21,313
+	NA
+Intel Xeon E5-2698 v3 @ 2.30GHz
+21,149
+	$2,826.57*
+Intel Xeon E5-2695 v3 @ 2.30GHz
+20,374
+	$2,460.00
+Intel Xeon E5-2695 v4 @ 2.10GHz
+20,258
+	$2,682.50*
+Intel Xeon E5-2687W v4 @ 3.00GHz
+20,107
+	$2,211.95*
+Intel Core i7-6950X @ 3.00GHz
+19,988
+	$1,449.00
+Intel Xeon E5-2680 v4 @ 2.40GHz
+19,946
+	$1,762.90*
+AMD Ryzen Threadripper 1920X
+19,665
+	$649.00
+Intel Xeon E5-2689 v4 @ 3.10GHz
+19,521
+	NA
+Intel Xeon E5-2686 v3 @ 2.00GHz
+19,255
+	NA
+Intel Xeon E5-2690 v3 @ 2.60GHz
+19,240
+	$2,369.95
+Intel Xeon E5-2660 v4 @ 2.00GHz
+18,816
+	$1,498.77*
+Intel Core i7-7900X @ 3.30GHz
+18,804
+	NA
+Intel Xeon E5-2680 v3 @ 2.50GHz
+18,782
+	$1,819.95
+AMD EPYC 7401P
+18,708
+	NA
+Intel Core i7-7820X @ 3.60GHz
+18,636
+	$569.00
+Intel Xeon E5-1681 v3 @ 2.90GHz
+18,282
+	NA
+Intel Xeon E5-4660 v3 @ 2.10GHz
+18,007
+	$4,800.00*
+AMD EPYC 7351P
+17,991
+	NA
+Intel Xeon E5-2687W v3 @ 3.10GHz
+17,815
+	$2,190.00*
+Intel Xeon E5-2676 v3 @ 2.40GHz
+17,795
+	NA
+Intel Core i7-6900K @ 3.20GHz
+17,703
+	$1,006.99
+Intel Xeon Gold 6134 @ 3.20GHz
+17,670
+	$2,298.99
+Intel Xeon E5-2683 v3 @ 2.00GHz
+17,407
+	$1,984.99*
+Intel Xeon E5-2697 v2 @ 2.70GHz
+17,405
+	$2,235.02
+Intel Xeon E5-1680 v2 @ 3.00GHz
+17,102
+	NA
+Intel Xeon E5-2673 v3 @ 2.40GHz
+16,982
+	$700.00*
+Intel Xeon E5-1680 v4 @ 3.40GHz
+16,959
+	NA
+Intel Xeon E5-2678 v3 @ 2.50GHz
+16,905
+	NA
+Intel Xeon E5-2696 v2 @ 2.50GHz
+16,681
+	NA
+Intel Xeon E5-1680 v3 @ 3.20GHz
+16,673
+	NA
+Intel Xeon E5-2667 v4 @ 3.20GHz
+16,654
+	$2,056.00
+Intel Xeon E5-2670 v3 @ 2.30GHz
+16,619
+	$1,661.33
+Intel Xeon E5-2687W v2 @ 3.40GHz
+16,538
+	$2,440.04
+Intel Xeon E5-2667 v2 @ 3.30GHz
+16,506
+	$759.00
+Intel Xeon E5-2690 v2 @ 3.00GHz
+16,447
+	$2,160.00*
+AMD Ryzen Threadripper 1900X
+16,416
+	$449.00
+Intel Xeon E5-2673 v2 @ 3.30GHz
+16,320
+	NA
+Intel Xeon E5-2658 v3 @ 2.20GHz
+16,298
+	NA
+Intel Xeon E5-2658 v4 @ 2.30GHz
+16,290
+	NA
+Intel Xeon E5-1660 v4 @ 3.20GHz
+16,276
+	NA
+Intel Core i7-8700K @ 3.70GHz
+16,269
+	$414.00
+Intel Xeon E5-2660 v3 @ 2.60GHz
+16,161
+	$1,529.95
+Intel Xeon E5-2650 v4 @ 2.20GHz
+16,142
+	$1,169.99*
+Intel Xeon E5-2667 v3 @ 3.20GHz
+16,101
+	$2,259.95*
+Intel Xeon E5-2680 v2 @ 2.80GHz
+16,036
+	$605.51
+Intel Xeon E5-2692 v2 @ 2.20GHz
+16,018
+	NA
+Intel Core i7-5960X @ 3.00GHz
+15,997
+	$1,073.52
+Intel Xeon E5-2695 v2 @ 2.40GHz
+15,912
+	$1,774.85
+Intel Xeon E5-4627 v4 @ 2.60GHz
+15,516
+	NA
+Intel Core i7-8700 @ 3.20GHz
+15,460
+	$339.99*
+AMD Ryzen 7 1800X
+15,436
+	$319.99
+AMD Ryzen 7 PRO 1700X
+15,433
+	NA
+Intel Xeon E5-2682 v4 @ 2.50GHz
+15,333
+	NA
+Intel Xeon E5-2640 v4 @ 2.40GHz
+15,295
+	$749.60
+Intel Xeon E5-2675 v3 @ 1.80GHz
+15,164
+	NA
+Intel Xeon W-2133 @ 3.60GHz
+15,004
+	$617.00*
+AMD Ryzen 7 PRO 1700
+14,993
+	NA
+Intel Xeon E5-2670 v2 @ 2.50GHz
+14,969
+	$223.17
+Intel Xeon E5-2650 v3 @ 2.30GHz
+14,927
+	$1,048.88
+Intel Core i7-7800X @ 3.50GHz
+14,783
+	$379.99
+Intel Xeon Silver 4114 @ 2.20GHz
+14,746
+	$704.00*
+Intel Xeon D-1567 @ 2.10GHz
+14,693
+	NA
+AMD Ryzen 7 1700X
+14,621
+	$279.99
+Intel Xeon E5-2618L v4 @ 2.20GHz
+14,592
+	$779.00*
+Intel Xeon E5-2687W @ 3.10GHz
+14,403
+	$506.31*
+Intel Core i7-6850K @ 3.60GHz
+14,382
+	$343.93
+Intel Xeon E5-1660 v3 @ 3.00GHz
+14,378
+	$1,616.49*
+Intel Xeon E5-1650 v4 @ 3.60GHz
+14,253
+	$629.99*
+Intel Xeon E5-4627 v3 @ 2.60GHz
+14,219
+	$2,400.00*
+Intel Xeon E5-2685 v3 @ 2.60GHz
+14,154
+	NA
+Intel Xeon E5-2658 v2 @ 2.40GHz
+14,128
+	NA
+Intel Xeon E5-2650L v4 @ 1.70GHz
+14,093
+	$1,496.00*
+Intel Xeon D-1587 @ 1.70GHz
+14,063
+	NA
+Intel Xeon E5-2690 @ 2.90GHz
+14,055
+	$468.25
+Intel Xeon E5-2648L v4 @ 1.80GHz
+14,026
+	NA
+Intel Xeon E5-2630 v4 @ 2.20GHz
+13,994
+	$689.71
+Intel Xeon E5-2663 v3 @ 2.80GHz
+13,994
+	NA
+Intel Xeon E5-2640 v3 @ 2.60GHz
+13,965
+	$975.24*
+Intel Xeon E5-2643 v3 @ 3.40GHz
+13,852
+	$2,509.95*
+Intel Core i7-4960X @ 3.60GHz
+13,837
+	$2,333.64
+Intel Xeon E5-1660 v2 @ 3.70GHz
+13,790
+	$1,808.95*
+AMD Ryzen 7 1700
+13,753
+	$269.99
+Intel Xeon E5-2689 @ 2.60GHz
+13,747
+	NA
+Intel Core i7-5930K @ 3.50GHz
+13,642
+	$680.00
+Intel Xeon E5-2660 v2 @ 2.20GHz
+13,634
+	$527.50*
+Intel Xeon E5-4669 v4 @ 2.20GHz
+13,626
+	NA
+Intel Core i7-6800K @ 3.40GHz
+13,610
+	$320.96
+Intel Xeon E5-1650 v3 @ 3.50GHz
+13,575
+	$663.98
+Intel Xeon E5-2643 v4 @ 3.40GHz
+13,395
+	$1,746.43*
+Intel Xeon E5-2650L v3 @ 1.80GHz
+13,392
+	$1,010.00*
+AMD Ryzen 5 1600X
+13,329
+	$199.99
+Intel Core i7-4930K @ 3.40GHz
+13,059
+	$569.18
+Intel Xeon E5-2628L v4 @ 1.90GHz
+13,041
+	$1,364.00*
+Intel Xeon E5-2650 v2 @ 2.60GHz
+13,006
+	$999.95
+Intel Core i7-5820K @ 3.30GHz
+13,002
+	$399.99
+Intel Core i5-8600K @ 3.60GHz
+12,911
+	$509.99
+Intel Xeon E5-2630L v4 @ 1.80GHz
+12,847
+	NA
+Intel Xeon E5-2630 v3 @ 2.40GHz
+12,819
+	$730.19
+Intel Xeon E5-2680 @ 2.70GHz
+12,778
+	$310.00
+Intel Xeon E5-4640 v3 @ 1.90GHz
+12,703
+	NA
+Intel Xeon E5-1650 v2 @ 3.50GHz
+12,671
+	$649.95
+Intel Core i7-3960X @ 3.30GHz
+12,650
+	$795.50
+Intel Core i7-3970X @ 3.50GHz
+12,635
+	$1,377.90
+Intel Xeon E5-2618L v3 @ 2.30GHz
+12,508
+	NA
+Intel Xeon E5-1660 @ 3.30GHz
+12,418
+	$1,226.66*
+Intel Xeon E5-2628L v3 @ 2.00GHz
+12,405
+	NA
+Intel Xeon E5-2648L v3 @ 1.80GHz
+12,332
+	NA
+AMD Ryzen 5 1600
+12,330
+	$189.99
+Intel Xeon E5-2643 v2 @ 3.50GHz
+12,324
+	$2,200.00*
+Intel Core i7-7740X @ 4.30GHz
+12,293
+	$329.99
+Intel Xeon E5-2670 @ 2.60GHz
+12,239
+	$237.89
+AMD Ryzen 5 PRO 1600
+12,213
+	NA
+Intel Core i7-7700K @ 4.20GHz
+12,098
+	$283.57
+Intel Xeon E5-4650 @ 2.70GHz
+12,085
+	$491.80*
+Intel Core i7-3930K @ 3.20GHz
+12,024
+	$609.95
+Intel Xeon E5-4650L @ 2.60GHz
+11,821
+	$8,684.50*
+Intel Xeon E5-2665 @ 2.40GHz
+11,776
+	$141.50*
+Intel Xeon E5-1650 @ 3.20GHz
+11,766
+	$175.00
+Intel Core i5-8400 @ 2.80GHz
+11,657
+	$309.00*
+Intel Xeon Silver 4110 @ 2.10GHz
+11,423
+	$511.00*
+Intel Xeon E5-2620 v4 @ 2.10GHz
+11,361
+	$436.99
+Intel Xeon E5-2651 v2 @ 1.80GHz
+11,275
+	NA
+Intel Xeon E3-1280 v6 @ 3.90GHz
+11,262
+	NA
+Intel Xeon E3-1285L v4 @ 3.40GHz
+11,224
+	NA
+Intel Core i7-4790K @ 4.00GHz
+11,192
+	$382.66
+Intel Xeon D-1541 @ 2.10GHz
+11,184
+	NA
+Intel Xeon E3-1270 v6 @ 3.80GHz
+11,153
+	$354.91
+Intel Xeon E5-2660 @ 2.20GHz
+11,118
+	$160.20
+Intel Core i7-6700K @ 4.00GHz
+11,111
+	$329.99
+Intel Xeon E5-4648 v3 @ 1.70GHz
+11,097
+	NA
+Intel Core i7-5775C @ 3.30GHz
+11,045
+	$440.44
+Intel Xeon E5-2629 v3 @ 2.40GHz
+11,022
+	NA
+Intel Xeon E3-1275 v6 @ 3.80GHz
+10,964
+	$374.98
+Intel Xeon W-2123 @ 3.60GHz
+10,961
+	$294.00*
+Intel Core i7-5775R @ 3.30GHz
+10,960
+	NA
+Intel Core i7-5950HQ @ 2.90GHz
+10,951
+	NA
+AMD Ryzen 5 PRO 1500
+10,894
+	NA
+Intel Xeon E3-1240 v6 @ 3.70GHz
+10,869
+	$296.98
+Intel Core i7-7700 @ 3.60GHz
+10,815
+	$298.00
+Intel Xeon E3-1535M v6 @ 3.10GHz
+10,803
+	NA
+AMD Opteron 6386 SE
+10,748
+	$2,407.51*
+Intel Xeon E3-1575M v5 @ 3.00GHz
+10,708
+	NA
+Intel Xeon E3-1280 v5 @ 3.70GHz
+10,667
+	$654.99*
+Intel Xeon D-1540 @ 2.00GHz
+10,573
+	NA
+Intel Xeon E5-4640 @ 2.40GHz
+10,523
+	$2,730.00*
+Intel Xeon E3-1515M v5 @ 2.80GHz
+10,509
+	NA
+Intel Xeon E3-1545M v5 @ 2.90GHz
+10,494
+	NA
+Intel Xeon E3-1585 v5 @ 3.50GHz
+10,483
+	NA
+Intel Xeon E5-2630 v2 @ 2.60GHz
+10,461
+	$444.95
+AMD Ryzen 5 1500X
+10,449
+	$164.00
+Intel Xeon E5-2667 @ 2.90GHz
+10,380
+	$187.65*
+Intel Xeon E3-1240 v5 @ 3.50GHz
+10,368
+	$323.01
+Intel Xeon E3-1281 v3 @ 3.70GHz
+10,359
+	$877.75*
+Intel Xeon E3-1275 v5 @ 3.60GHz
+10,357
+	$359.99*
+Intel Xeon E3-1245 v5 @ 3.50GHz
+10,331
+	$348.45
+Intel Xeon E3-1245 v6 @ 3.70GHz
+10,328
+	$317.98
+Intel Xeon E5-2637 v3 @ 3.50GHz
+10,281
+	$1,295.95*
+Intel Xeon E5-1630 v4 @ 3.70GHz
+10,271
+	NA
+Intel Xeon E3-1270 v5 @ 3.60GHz
+10,260
+	$364.98
+Intel Xeon E3-1285 v3 @ 3.60GHz
+10,252
+	NA
+Intel Xeon E5-1630 v3 @ 3.70GHz
+10,246
+	$597.85*
+Intel Xeon E3-1276 v3 @ 3.60GHz
+10,224
+	$454.11*
+Intel Xeon E3-1230 v6 @ 3.50GHz
+10,223
+	$249.99
+AMD FX-9590 Eight-Core
+10,189
+	$119.00
+Intel Xeon E5-2450 @ 2.10GHz
+10,186
+	$503.50
+Intel Xeon E5-2650 @ 2.00GHz
+10,155
+	$119.21
+Intel Core i7-4980HQ @ 2.80GHz
+10,137
+	NA
+Intel Core i7-7920HQ @ 3.10GHz
+10,126
+	NA
+Intel Core i7-4770K @ 3.50GHz
+10,106
+	$395.95
+Intel Xeon E3-1271 v3 @ 3.60GHz
+10,090
+	$616.53*
+Intel Core i7-7820HK @ 2.90GHz
+10,082
+	NA
+AMD Opteron 6380
+10,082
+	$172.99
+Intel Xeon E3-1260L v5 @ 2.90GHz
+10,067
+	$323.17*
+Intel Xeon E5-2470 @ 2.30GHz
+10,061
+	$1,479.99*
+Intel Xeon E5-2637 v4 @ 3.50GHz
+10,052
+	$1,136.00*
+Intel Xeon E3-1241 v3 @ 3.50GHz
+10,044
+	$468.63
+Intel Xeon E5-1620 v4 @ 3.50GHz
+10,019
+	$288.99
+Intel Core i7-6700 @ 3.40GHz
+10,009
+	$252.90
+Intel Xeon E3-1505M v6 @ 3.00GHz
+10,000
+	NA
+Intel Core i7-4790 @ 3.60GHz
+9,999
+	$330.87
+Intel Xeon E5-2620 v3 @ 2.40GHz
+9,992
+	$429.99*
+Intel Core i7-4940MX @ 3.10GHz
+9,940
+	$1,008.95*
+Intel Xeon E3-1285L v3 @ 3.10GHz
+9,934
+	$409.00
+Intel Xeon E5-2640 v2 @ 2.00GHz
+9,914
+	$889.99*
+Intel Xeon E3-1246 v3 @ 3.50GHz
+9,905
+	$847.05*
+Intel Xeon E3-1286 v3 @ 3.70GHz
+9,899
+	$839.00*
+Intel Xeon E3-1275 v3 @ 3.50GHz
+9,868
+	$400.99*
+Intel Core i7-4771 @ 3.50GHz
+9,868
+	$413.00
+Intel Xeon E3-1270 v3 @ 3.50GHz
+9,860
+	$369.99*
+Intel Core i7-4770R @ 3.20GHz
+9,832
+	NA
+Intel Core i7-4770 @ 3.40GHz
+9,794
+	$280.99
+Intel Core i7-995X @ 3.60GHz
+9,791
+	NA
+AMD Opteron 6287 SE
+9,789
+	NA
+Intel Xeon E5-1620 v3 @ 3.50GHz
+9,781
+	$349.26
+Intel Core i7-4960HQ @ 2.60GHz
+9,768
+	$623.00*
+Intel Xeon E3-1290 V2 @ 3.70GHz
+9,744
+	$885.00*
+Intel Core i7-4820K @ 3.70GHz
+9,738
+	$512.62
+Intel Xeon D-1531 @ 2.20GHz
+9,730
+	$348.00*
+Intel Xeon E3-1230 v5 @ 3.40GHz
+9,720
+	$306.54*
+Intel Xeon E3-1280 v3 @ 3.60GHz
+9,720
+	$697.36*
+Intel Xeon E3-1240 v3 @ 3.40GHz
+9,711
+	$299.99*
+Intel Core i7-6770HQ @ 2.60GHz
+9,702
+	$1,001.88*
+Intel Xeon E3-1280 V2 @ 3.60GHz
+9,663
+	$644.99*
+Intel Core i3-8350K @ 4.00GHz
+9,659
+	$189.99
+Intel Xeon E3-1231 v3 @ 3.40GHz
+9,631
+	$329.87
+Intel Core i7-6920HQ @ 2.90GHz
+9,603
+	NA
+Intel Core i7-4790S @ 3.20GHz
+9,581
+	$391.67
+Intel Xeon E3-1245 v3 @ 3.40GHz
+9,581
+	$510.70*
+Intel Core i7-3770K @ 3.50GHz
+9,539
+	$554.05
+Intel Core i7-4930MX @ 3.00GHz
+9,528
+	$1,096.00*
+AMD FX-9370 Eight-Core
+9,510
+	$209.24
+Intel Xeon E5-1620 v2 @ 3.70GHz
+9,504
+	$329.00
+Intel Xeon E5-2640 @ 2.50GHz
+9,498
+	$89.99
+Intel Xeon E5-2658 @ 2.10GHz
+9,484
+	$1,462.00*
+Intel Xeon E3-1270 V2 @ 3.50GHz
+9,484
+	$240.99
+Intel Xeon E5-2637 v2 @ 3.50GHz
+9,476
+	$1,089.70*
+Intel Core i7-5850HQ @ 2.70GHz
+9,459
+	NA
+Intel Core i7-4910MQ @ 2.90GHz
+9,457
+	$509.95*
+Intel Core i7-7820HQ @ 2.90GHz
+9,430
+	NA
+Intel Xeon E5-2440 v2 @ 1.90GHz
+9,425
+	$650.20*
+AMD Opteron 6376
+9,414
+	$721.52
+Intel Xeon E5-2628L v2 @ 1.90GHz
+9,405
+	NA
+Intel Core i7-8650U @ 1.90GHz
+9,376
+	NA
+Intel Xeon W3690 @ 3.47GHz
+9,350
+	$1,885.51
+Intel Core i7-4870HQ @ 2.50GHz
+9,347
+	NA
+Intel Xeon E3-1275 V2 @ 3.50GHz
+9,344
+	$399.99
+Intel Xeon E3-1230 v3 @ 3.30GHz
+9,331
+	$261.66
+Intel Core i7-4770S @ 3.10GHz
+9,324
+	$343.00
+Intel Xeon E5-2440 @ 2.40GHz
+9,319
+	$323.98*
+Intel Core i7-3940XM @ 3.00GHz
+9,309
+	$539.00*
+Intel Core i7-3770 @ 3.40GHz
+9,306
+	$300.51
+Intel Xeon E3-1535M v5 @ 2.90GHz
+9,261
+	NA
+Intel Core i7-4860HQ @ 2.40GHz
+9,220
+	NA
+Intel Core i7-7700T @ 2.90GHz
+9,219
+	$309.43
+Intel Core i5-7600K @ 3.80GHz
+9,218
+	$199.99
+Intel Xeon E5-2630L v3 @ 1.80GHz
+9,216
+	$751.92*
+Intel Xeon E3-1240 V2 @ 3.40GHz
+9,212
+	$539.95
+Intel Xeon W3680 @ 3.33GHz
+9,181
+	$453.45*
+Intel Core i7-3920XM @ 2.90GHz
+9,144
+	$1,096.00*
+Intel Core i7-990X @ 3.47GHz
+9,135
+	$1,199.99
+Intel Core i7-6820HK @ 2.70GHz
+9,116
+	NA
+AMD Opteron 6282 SE
+9,116
+	$1,089.99*
+Intel Xeon E3-1245 V2 @ 3.40GHz
+9,104
+	$461.92*
+Intel Xeon E5-1620 @ 3.60GHz
+9,095
+	$680.09
+Intel Core i7-6700TE @ 2.40GHz
+9,094
+	NA
+Intel Core i7-4850HQ @ 2.30GHz
+9,077
+	$434.00*
+Intel Core i7-4900MQ @ 2.80GHz
+9,073
+	$609.29*
+Intel Core i7-6700T @ 2.80GHz
+9,062
+	$297.00*
+Intel Core i5-7640X @ 4.00GHz
+9,054
+	$229.00
+Intel Core i7-4790T @ 2.70GHz
+9,044
+	$359.00*
+Intel Xeon E5-2623 v3 @ 3.00GHz
+9,024
+	$404.99
+AMD FX-8370 Eight-Core
+9,023
+	$179.99
+Intel Xeon X5690 @ 3.47GHz
+9,018
+	$168.55
+AMD Opteron 6276
+9,011
+	$244.00
+Intel Core i7-3820 @ 3.60GHz
+9,002
+	$309.99
+Intel Xeon E3-1505M v5 @ 2.80GHz
+8,991
+	NA
+AMD FX-8350 Eight-Core
+8,947
+	$127.90
+Intel Core i7-4770HQ @ 2.20GHz
+8,944
+	NA
+Intel Core i7-7700HQ @ 2.80GHz
+8,915
+	NA
+Intel Xeon E5-2630 @ 2.30GHz
+8,898
+	$128.00
+Intel Core i5-7600 @ 3.50GHz
+8,892
+	$219.99
+Intel Core i7-3770S @ 3.10GHz
+8,879
+	$213.90
+Intel Xeon E3-1230 V2 @ 3.30GHz
+8,863
+	$359.95
+Intel Xeon E5-4617 @ 2.90GHz
+8,855
+	$89.90*
+Intel Core i7-980X @ 3.33GHz
+8,845
+	$799.99
+Intel Core i7-6820EQ @ 2.80GHz
+8,824
+	NA
+Intel Core i7-6820HQ @ 2.70GHz
+8,800
+	NA
+Intel Core i7-3840QM @ 2.80GHz
+8,800
+	$405.00*
+Intel Core i7-980 @ 3.33GHz
+8,747
+	$699.99
+Intel Xeon E3-1275L v3 @ 2.70GHz
+8,746
+	NA
+Intel Core i7-2700K @ 3.50GHz
+8,746
+	$309.00
+Intel Xeon X5680 @ 3.33GHz
+8,715
+	$164.45
+Intel Xeon E3-1265L v3 @ 2.50GHz
+8,713
+	$363.52
+Intel Xeon E3-1290 @ 3.60GHz
+8,704
+	$885.00*
+Intel Xeon E5-2620 v2 @ 2.10GHz
+8,691
+	$451.79
+Intel Xeon E5-2650L @ 1.80GHz
+8,676
+	$159.90*
+Intel Core i7-4770T @ 2.50GHz
+8,665
+	$308.99
+Intel Core i7-4810MQ @ 2.80GHz
+8,654
+	$424.95*
+Intel Xeon X5679 @ 3.20GHz
+8,652
+	NA
+Intel Xeon E5-2420 v2 @ 2.20GHz
+8,646
+	$479.90
+Intel Xeon D-1528 @ 1.90GHz
+8,612
+	NA
+Intel Xeon E5-2430 v2 @ 2.50GHz
+8,608
+	$230.99
+Intel Xeon X5675 @ 3.07GHz
+8,507
+	$239.00
+Intel Core i7-4800MQ @ 2.70GHz
+8,493
+	$459.95
+Intel Core i7-3820QM @ 2.70GHz
+8,491
+	$486.99*
+Intel Xeon E5-2643 @ 3.30GHz
+8,490
+	$550.00
+Intel Xeon E3-1280 @ 3.50GHz
+8,473
+	$851.20
+Intel Core i7-2600K @ 3.40GHz
+8,466
+	$415.00
+AMD Ryzen 5 1400
+8,439
+	$145.00
+Intel Core i7-970 @ 3.20GHz
+8,430
+	$550.00
+Intel Core i7-5700HQ @ 2.70GHz
+8,379
+	NA
+Intel Xeon E3-1275 @ 3.40GHz
+8,348
+	$364.99*
+Intel Core i7-3740QM @ 2.70GHz
+8,344
+	$199.95
+Intel Core i7-4760HQ @ 2.10GHz
+8,340
+	NA
+Intel Core i7-4750HQ @ 2.00GHz
+8,267
+	NA
+Intel Xeon E3-1220 v6 @ 3.00GHz
+8,261
+	$199.99
+Intel Core i7-5700EQ @ 2.60GHz
+8,239
+	NA
+Intel Xeon E3-1270 @ 3.40GHz
+8,239
+	$369.00
+Intel Core i7-2600 @ 3.40GHz
+8,213
+	$199.99
+Intel Core i5-7600T @ 2.80GHz
+8,201
+	$251.54
+Intel Xeon W3670 @ 3.20GHz
+8,195
+	$295.00*
+Intel Core i3-8100 @ 3.60GHz
+8,193
+	$133.99
+Intel Core i7-3770T @ 2.50GHz
+8,190
+	$329.99*
+AMD Ryzen 3 PRO 1300
+8,173
+	NA
+Intel Core i7-5675C @ 3.10GHz
+8,164
+	NA
+Intel Xeon E3-1225 v6 @ 3.30GHz
+8,163
+	$245.98
+Intel Core i5-5675C @ 3.10GHz
+8,151
+	$305.77
+Intel Core i7-6700HQ @ 2.60GHz
+8,144
+	$1,509.00*
+Intel Core i7-3720QM @ 2.60GHz
+8,134
+	$334.72*
+Intel Xeon E5-4620 @ 2.20GHz
+8,127
+	$3,519.97*
+Intel Core i5-7500 @ 3.40GHz
+8,101
+	$159.00
+Intel Core i5-7440HQ @ 2.80GHz
+8,066
+	NA
+Intel Core i5-5675R @ 3.10GHz
+8,061
+	NA
+Intel Xeon E5-2623 v4 @ 2.60GHz
+8,061
+	$549.00*
+Intel Xeon D-1559 @ 1.50GHz
+8,055
+	NA
+Intel Core i7-4722HQ @ 2.40GHz
+8,052
+	NA
+Intel Xeon E3-1245 @ 3.30GHz
+8,044
+	$260.00
+Intel Core i7-8550U @ 1.80GHz
+8,037
+	NA
+Intel Core i5-6600K @ 3.50GHz
+8,030
+	$252.00
+Intel Core i7-4720HQ @ 2.60GHz
+8,023
+	NA
+AMD FX-8320 Eight-Core
+8,021
+	$117.38
+Intel Xeon E3-1240 @ 3.30GHz
+8,002
+	$209.00
+Intel Xeon X5670 @ 2.93GHz
+7,988
+	$69.98
+Intel Core i7-4710MQ @ 2.50GHz
+7,982
+	$271.57*
+Intel Xeon E5-2620 @ 2.00GHz
+7,957
+	$101.14
+Intel Xeon E3-1230 @ 3.20GHz
+7,939
+	$428.35
+Intel Xeon E5-2630L @ 2.00GHz
+7,900
+	NA
+Intel Core i7-4860EQ @ 1.80GHz
+7,897
+	NA
+Intel Xeon E3-1268L v3 @ 2.30GHz
+7,850
+	NA
+Intel Xeon E3-1240L v5 @ 2.10GHz
+7,824
+	$278.00*
+Intel Xeon E3-1225 v5 @ 3.30GHz
+7,823
+	$253.32
+AMD Opteron 6328
+7,813
+	$509.99
+AMD FX-8370E Eight-Core
+7,788
+	$203.17
+Intel Core i5-4690K @ 3.50GHz
+7,781
+	$259.01*
+Intel Xeon E3-1265L V2 @ 2.50GHz
+7,779
+	$142.42*
+Intel Core i7-4700HQ @ 2.40GHz
+7,749
+	$383.00*
+Intel Core i7-4710HQ @ 2.50GHz
+7,746
+	NA
+Intel Core i5-6600 @ 3.30GHz
+7,744
+	$228.91
+Intel Xeon X5660 @ 2.80GHz
+7,743
+	$101.46
+AMD FX-8310 Eight-Core
+7,742
+	NA
+Intel Core i7-4700MQ @ 2.40GHz
+7,701
+	$189.00*
+AMD FX-8300 Eight-Core
+7,699
+	$111.32
+Intel Xeon E3-1220 v5 @ 3.00GHz
+7,684
+	$264.91
+Intel Xeon E3-1235 @ 3.20GHz
+7,680
+	$287.00*
+Intel Core i5-4670K @ 3.40GHz
+7,623
+	$240.00
+AMD FX-8150 Eight-Core
+7,620
+	$383.50
+Intel Core i5-4690 @ 3.50GHz
+7,614
+	$371.32
+Intel Core i7-4785T @ 2.20GHz
+7,596
+	NA
+Intel Core i7-3630QM @ 2.40GHz
+7,590
+	$239.00*
+Intel Core i5-8250U @ 1.60GHz
+7,577
+	NA
+Intel Xeon E3-1226 v3 @ 3.30GHz
+7,569
+	$420.52*
+AMD FX-8320E Eight-Core
+7,519
+	$109.00
+Intel Core i7-4712HQ @ 2.30GHz
+7,507
+	NA
+AMD Opteron 6366 HE
+7,503
+	NA
+Intel Core i7-4702HQ @ 2.20GHz
+7,501
+	NA
+Intel Xeon E3-1240L v3 @ 2.00GHz
+7,487
+	NA
+Intel Xeon X5650 @ 2.67GHz
+7,469
+	$50.00
+Intel Core i7-3610QM @ 2.30GHz
+7,463
+	$399.99*
+Intel Core i5-5575R @ 2.80GHz
+7,434
+	NA
+Intel Xeon E5-1410 v2 @ 2.80GHz
+7,420
+	NA
+Intel Core i5-6402P @ 2.80GHz
+7,418
+	$189.99*
+Intel Core i5-7400 @ 3.00GHz
+7,415
+	$188.43
+Intel Core i5-4670K CPT @ 3.40GHz
+7,411
+	NA
+Intel Core i5-4670 @ 3.40GHz
+7,399
+	$287.66
+Intel Core i5-4690S @ 3.20GHz
+7,391
+	$287.56
+Intel Xeon E5-2450L @ 1.80GHz
+7,389
+	$64.99
+Intel Core i7-3615QM @ 2.30GHz
+7,377
+	NA
+Intel Xeon E5-1607 v4 @ 3.10GHz
+7,352
+	NA
+Intel Core i7-3615QE @ 2.30GHz
+7,340
+	NA
+AMD Ryzen 3 1300X
+7,327
+	$119.99
+AMD Opteron 6238
+7,316
+	$1,088.11*
+Intel Xeon E5-1410 @ 2.80GHz
+7,312
+	NA
+Intel Core i7-4765T @ 2.00GHz
+7,299
+	$269.99*
+Intel Core i5-6600T @ 2.70GHz
+7,255
+	$190.00
+Intel Core i5-4590 @ 3.30GHz
+7,252
+	$265.60
+Intel Xeon E3-1230L v3 @ 1.80GHz
+7,231
+	$287.90
+Intel Core i7-4700EQ @ 2.40GHz
+7,229
+	NA
+Intel Core i5-6500 @ 3.20GHz
+7,228
+	$204.44
+AMD Ryzen 3 PRO 1200
+7,185
+	NA
+Intel Core i7-2960XM @ 2.70GHz
+7,181
+	$587.19*
+Intel Core i5-7500T @ 2.70GHz
+7,180
+	$201.07
+Intel Xeon E3-1225 v3 @ 3.20GHz
+7,172
+	$383.62
+Intel Core i7-4712MQ @ 2.30GHz
+7,165
+	NA
+Intel Core i5-3570K @ 3.40GHz
+7,157
+	$275.00
+Intel Xeon E5-2420 @ 1.90GHz
+7,139
+	$390.02
+Intel Core i7-4702MQ @ 2.20GHz
+7,129
+	NA
+Intel Xeon X5687 @ 3.60GHz
+7,123
+	$162.31*
+Intel Core i7-2920XM @ 2.50GHz
+7,085
+	$608.95*
+Intel Xeon E3-1505L v5 @ 2.00GHz
+7,082
+	NA
+Intel Core i5-4570 @ 3.20GHz
+7,081
+	$235.40
+Intel Core i7-2600S @ 2.80GHz
+7,075
+	$298.26
+Intel Core i7-4770TE @ 2.30GHz
+7,065
+	NA
+Intel Core i5-3570 @ 3.40GHz
+7,059
+	$246.95
+Intel Core i7-2860QM @ 2.50GHz
+7,025
+	$599.99*
+Intel Xeon L5639 @ 2.13GHz
+7,021
+	NA
+Intel Xeon E5649 @ 2.53GHz
+7,002
+	$113.95*
+Intel Xeon D-1521 @ 2.40GHz
+6,980
+	NA
+Intel Core i5-4590S @ 3.00GHz
+6,970
+	$299.00*
+AMD FX-6350 Six-Core
+6,970
+	$118.00
+Intel Xeon E3-1220 v3 @ 3.10GHz
+6,966
+	$241.02
+Intel Xeon X5677 @ 3.47GHz
+6,963
+	$350.00*
+Intel Xeon E5-1607 v3 @ 3.10GHz
+6,960
+	NA
+Intel Core i7-3632QM @ 2.20GHz
+6,927
+	$359.00*
+Intel Core i5-3550 @ 3.30GHz
+6,896
+	$280.40
+Intel Xeon E5-2609 v4 @ 1.70GHz
+6,896
+	$359.84
+Intel Xeon E5-2430 @ 2.20GHz
+6,878
+	$728.95
+Intel Core i5-7300HQ @ 2.50GHz
+6,860
+	NA
+Intel Core i5-3550S @ 3.00GHz
+6,837
+	$350.00*
+Intel Xeon E3-1225 V2 @ 3.20GHz
+6,834
+	$339.95*
+Intel Core i7-3612QM @ 2.10GHz
+6,815
+	NA
+AMD Ryzen 3 1200
+6,787
+	$99.99
+Intel Core i7-2840QM @ 2.40GHz
+6,766
+	NA
+AMD FX-6330 Six-Core
+6,755
+	NA
+AMD Opteron 6272
+6,748
+	$189.00
+Intel Core i5-6400 @ 2.70GHz
+6,743
+	$187.80
+Intel Core i5-6440HQ @ 2.60GHz
+6,742
+	NA
+Intel Core i5-4570S @ 2.90GHz
+6,729
+	$409.95*
+Intel Core i3-7350K @ 4.20GHz
+6,703
+	$149.97
+Intel Core i5-2550K @ 3.40GHz
+6,692
+	$189.00*
+Intel Core i5-4570R @ 2.70GHz
+6,689
+	NA
+Intel Core i5-4460 @ 3.20GHz
+6,684
+	$199.97
+Intel Core i5-3570S @ 3.10GHz
+6,681
+	$285.00*
+AMD Opteron 4284
+6,660
+	$357.30*
+Intel Core i5-3470 @ 3.20GHz
+6,648
+	$155.45
+Intel Core i7-985 @ 3.47GHz
+6,641
+	NA
+Intel Xeon E3-1220 V2 @ 3.10GHz
+6,639
+	$329.10
+Intel Core i7-3635QM @ 2.40GHz
+6,631
+	NA
+Intel Xeon E5-2430L v2 @ 2.40GHz
+6,627
+	NA
+Intel Core i7-2820QM @ 2.30GHz
+6,627
+	$359.95*
+Intel Core i7-2760QM @ 2.40GHz
+6,606
+	$139.95
+AMD FX-8120 Eight-Core
+6,592
+	$179.99*
+Intel Core i3-7320 @ 4.10GHz
+6,582
+	$170.99
+Intel Core i5-7400T @ 2.40GHz
+6,555
+	$159.00
+Intel Core i7-7567U @ 3.50GHz
+6,535
+	NA
+Intel Xeon E3-1260L @ 2.40GHz
+6,534
+	$323.17*
+Intel Xeon E5645 @ 2.40GHz
+6,528
+	$53.50*
+Intel Core i5-3450 @ 3.10GHz
+6,494
+	$183.00
+Intel Core i5-6500TE @ 2.30GHz
+6,483
+	NA
+Intel Xeon X5672 @ 3.20GHz
+6,476
+	$115.12*
+Intel Core i7-3610QE @ 2.30GHz
+6,472
+	NA
+Intel Core i5-3475S @ 2.90GHz
+6,471
+	$85.90*
+Intel Core i5-2500K @ 3.30GHz
+6,469
+	$259.90
+Intel Core i5-4440 @ 3.10GHz
+6,469
+	$334.97*
+Intel Core i3-7300 @ 4.00GHz
+6,455
+	$158.16
+Intel Xeon L5640 @ 2.27GHz
+6,451
+	$55.00*
+Intel Core i5-4670S @ 3.10GHz
+6,436
+	NA
+AMD Opteron 4280
+6,430
+	$456.44*
+Intel Core i5-4690T @ 2.50GHz
+6,429
+	NA
+Intel Core i7-3612QE @ 2.10GHz
+6,428
+	NA
+Intel Xeon W3580 @ 3.33GHz
+6,398
+	$214.50*
+Intel Xeon D-1520 @ 2.20GHz
+6,396
+	NA
+AMD Opteron 3380
+6,384
+	$809.00*
+Intel Core i5-4460S @ 2.90GHz
+6,372
+	$659.99*
+AMD FX-6300 Six-Core
+6,370
+	$74.99
+Intel Xeon E3-1235L v5 @ 2.00GHz
+6,352
+	NA
+Intel Xeon E5-1603 v4 @ 2.80GHz
+6,325
+	NA
+Intel Core i5-2500 @ 3.30GHz
+6,305
+	$175.00
+Intel Core i5-4430 @ 3.00GHz
+6,291
+	$259.97*
+Intel Core i5-3470S @ 2.90GHz
+6,283
+	$160.90
+Intel Core i7-6822EQ @ 2.00GHz
+6,262
+	NA
+Intel Core i5-4670T @ 2.30GHz
+6,234
+	$220.00*
+AMD FX-6130 Six-Core
+6,215
+	NA
+Intel Core i5-6500T @ 2.50GHz
+6,213
+	NA
+AMD PRO A12-9800
+6,199
+	$169.00*
+Intel Xeon W5590 @ 3.33GHz
+6,183
+	$269.99*
+AMD PRO A12-8870
+6,177
+	NA
+AMD Opteron 6174
+6,171
+	$1,514.20*
+Intel Xeon W3570 @ 3.20GHz
+6,165
+	$479.95*
+Intel Core i5-3450S @ 2.80GHz
+6,158
+	$149.45
+Intel Core i7-975 @ 3.33GHz
+6,152
+	$468.87
+Intel Core i5-4440S @ 2.80GHz
+6,151
+	$468.18*
+Intel Xeon E5-1607 v2 @ 3.00GHz
+6,134
+	$313.00*
+Intel Core i5-2450P @ 3.20GHz
+6,132
+	$214.99*
+Intel Core i5-3350P @ 3.10GHz
+6,126
+	$292.01
+Intel Core i7-7660U @ 2.50GHz
+6,125
+	NA
+AMD FX-6200 Six-Core
+6,119
+	$123.00
+Intel Core i7-2720QM @ 2.20GHz
+6,102
+	$169.97
+Intel Xeon E5-1603 v3 @ 2.80GHz
+6,090
+	NA
+Intel Xeon E3-1220 @ 3.10GHz
+6,086
+	$509.95
+Intel Core i5-7360U @ 2.30GHz
+6,080
+	NA
+Intel Core i3-6320 @ 3.90GHz
+6,054
+	$159.99
+Intel Core i5-6300HQ @ 2.30GHz
+6,053
+	NA
+Intel Core i5-3340 @ 3.10GHz
+6,052
+	$194.01
+Intel Xeon E3-1265L @ 2.40GHz
+6,038
+	$918.35*
+AMD FX-8100 Eight-Core
+6,006
+	$142.00*
+Intel Xeon X5647 @ 2.93GHz
+5,980
+	$175.00*
+AMD Opteron 6234
+5,979
+	$399.99*
+Intel Core i7-7560U @ 2.40GHz
+5,979
+	NA
+Intel Xeon W3565 @ 3.20GHz
+5,948
+	$69.95
+Intel Xeon E5-2609 v3 @ 1.90GHz
+5,934
+	$329.99
+Intel Xeon E3-1225 @ 3.10GHz
+5,930
+	$463.46
+Intel Core i5-2400 @ 3.10GHz
+5,920
+	$88.00
+Intel Core i7-2670QM @ 2.20GHz
+5,911
+	$139.00
+Intel Core i5-3330 @ 3.00GHz
+5,907
+	$359.95
+Intel Core i7-965 @ 3.20GHz
+5,883
+	$359.00
+AMD Opteron 3365
+5,877
+	NA
+Intel Core i5-3570T @ 2.30GHz
+5,877
+	NA
+Intel Core i7-960 @ 3.20GHz
+5,861
+	$295.00
+AMD FX-8140 Eight-Core
+5,854
+	NA
+Intel Core i5-4430S @ 2.70GHz
+5,854
+	$147.99
+AMD PRO A10-8850B
+5,852
+	NA
+Intel Core i3-6300 @ 3.80GHz
+5,849
+	$147.56
+Intel Core i3-7100 @ 3.90GHz
+5,846
+	$99.99
+Intel Xeon W5580 @ 3.20GHz
+5,836
+	$101.95*
+Intel Xeon E5-1607 @ 3.00GHz
+5,824
+	$27.50*
+Intel Core i5-3340S @ 2.80GHz
+5,794
+	$190.00
+Intel Core i5-6440EQ @ 2.70GHz
+5,778
+	NA
+AMD Opteron 6212
+5,776
+	$209.50*
+Intel Core i5-3335S @ 2.70GHz
+5,768
+	NA
+Intel Core i7-2710QE @ 2.10GHz
+5,768
+	NA
+AMD Phenom II X6 1100T
+5,767
+	$233.99*
+Intel Core i5-7260U @ 2.20GHz
+5,765
+	NA
+AMD FX-6120 Six-Core
+5,751
+	NA
+AMD PRO A10-9700
+5,742
+	$169.00*
+Intel Core i5-2320 @ 3.00GHz
+5,742
+	$160.00
+AMD PRO A10-8770
+5,742
+	NA
+Intel Xeon X3480 @ 3.07GHz
+5,739
+	NA
+AMD A10-7890K
+5,736
+	$182.07*
+Intel Xeon W3550 @ 3.07GHz
+5,716
+	$235.00*
+Intel Core i7-880 @ 3.07GHz
+5,679
+	$583.00*
+Intel Xeon X5570 @ 2.93GHz
+5,679
+	$48.50
+Intel Core i5-2380P @ 3.10GHz
+5,677
+	$180.00*
+AMD A12-9800
+5,659
+	$289.89
+AMD PRO A10-8750B
+5,653
+	NA
+Intel Core i5-3330S @ 2.70GHz
+5,647
+	$134.99
+Intel Xeon E5-2603 v4 @ 1.70GHz
+5,621
+	$229.99*
+Intel Core i7-6567U @ 3.30GHz
+5,620
+	NA
+AMD A10-8850
+5,613
+	NA
+AMD Phenom II X6 1090T
+5,612
+	$396.08*
+Intel Core i7-7600U @ 2.80GHz
+5,599
+	NA
+Intel Core i3-4370 @ 3.80GHz
+5,589
+	$241.78*
+Intel Core i5-6400T @ 2.20GHz
+5,585
+	$175.00
+Intel Core i7-950 @ 3.07GHz
+5,584
+	$379.99
+AMD Athlon X4 880K
+5,578
+	$78.01*
+Intel Core i3-6098P @ 3.60GHz
+5,565
+	$133.74*
+Intel Xeon L5638 @ 2.00GHz
+5,556
+	$69.90*
+Intel Core i7-2630QM @ 2.00GHz
+5,543
+	$184.91*
+Intel Core i7-2675QM @ 2.20GHz
+5,538
+	NA
+Intel Core i5-4590T @ 2.00GHz
+5,537
+	NA
+Intel Xeon E5-1603 @ 2.80GHz
+5,514
+	$164.99*
+AMD A10-9700
+5,512
+	$89.99
+Intel Core i5-2310 @ 2.90GHz
+5,511
+	$175.25
+AMD A10-7850K APU
+5,491
+	$193.88
+Intel Core i3-6100 @ 3.70GHz
+5,491
+	$127.00
+AMD A10-7870K
+5,486
+	$173.89*
+AMD A8-8650
+5,481
+	NA
+AMD A10 PRO-7850B APU
+5,480
+	NA
+Intel Xeon W3540 @ 2.93GHz
+5,479
+	$359.95*
+Intel Core i3-4360 @ 3.70GHz
+5,472
+	$352.00*
+Intel Core i7-875K @ 2.93GHz
+5,470
+	$486.01
+AMD Athlon X4 860K
+5,461
+	$92.80
+AMD PRO A8-8650B
+5,457
+	NA
+Intel Core i7-2635QM @ 2.00GHz
+5,442
+	NA
+AMD Athlon X4 950
+5,437
+	$49.00
+Intel Xeon X5560 @ 2.80GHz
+5,426
+	$49.98*
+AMD Athlon X4 845
+5,422
+	$163.89
+Intel Xeon X5550 @ 2.67GHz
+5,416
+	$22.30*
+AMD FX-6100 Six-Core
+5,416
+	$189.99*
+AMD A10 PRO-7800B APU
+5,409
+	NA
+AMD Opteron 4332 HE
+5,401
+	NA
+Intel Core i7-940 @ 2.93GHz
+5,395
+	$299.00
+Intel Core i7-870 @ 2.93GHz
+5,387
+	$219.95
+AMD Phenom II X6 1075T
+5,372
+	$259.99*
+Intel Xeon W3530 @ 2.80GHz
+5,366
+	$998.99*
+Intel Core i3-7300T @ 3.50GHz
+5,366
+	NA
+AMD A12-9800E
+5,365
+	$115.99
+Intel Core i7-2715QE @ 2.10GHz
+5,365
+	NA
+AMD Opteron 6164 HE
+5,351
+	NA
+Intel Core i5-7267U @ 3.10GHz
+5,350
+	NA
+AMD PRO A8-9600
+5,342
+	$119.00*
+Intel Core i5-2300 @ 2.80GHz
+5,339
+	$99.99
+AMD FX-4350 Quad-Core
+5,320
+	$82.99
+Intel Xeon E5640 @ 2.67GHz
+5,311
+	$46.00
+Intel Core i5-2500S @ 2.70GHz
+5,296
+	$165.70
+AMD Athlon X4 870K
+5,295
+	$82.01*
+Intel Pentium G4620 @ 3.70GHz
+5,291
+	$99.99
+AMD Opteron 3280
+5,286
+	$273.18*
+Intel Core i3-4340 @ 3.60GHz
+5,240
+	$210.00*
+Intel Core i3-6300T @ 3.30GHz
+5,229
+	$156.05
+Intel Core i7-7500U @ 2.70GHz
+5,216
+	NA
+Intel Xeon X3470 @ 2.93GHz
+5,204
+	$509.95*
+Intel Xeon E5-2418L @ 2.00GHz
+5,202
+	NA
+AMD FX-4330
+5,196
+	NA
+Intel Core i3-4170 @ 3.70GHz
+5,177
+	$138.85
+Intel Core i3-7100T @ 3.40GHz
+5,168
+	NA
+Intel Core i7-930 @ 2.80GHz
+5,163
+	$508.95
+AMD A10-8750
+5,156
+	NA
+AMD A10-7700K APU
+5,145
+	$164.99
+AMD FX-870K Quad Core
+5,143
+	NA
+Intel Xeon E5-2603 v3 @ 1.60GHz
+5,140
+	$219.99
+Intel Pentium G4600 @ 3.60GHz
+5,137
+	$88.73
+AMD A10-9700E
+5,136
+	$91.99
+AMD A10-7860K
+5,134
+	$98.22
+Intel Xeon E5630 @ 2.53GHz
+5,127
+	$102.21
+Intel Xeon X3460 @ 2.80GHz
+5,117
+	$75.50*
+AMD A8-7600 APU
+5,116
+	$72.04
+Intel Core i5-7300U @ 2.60GHz
+5,095
+	NA
+Intel Xeon E5-2609 v2 @ 2.50GHz
+5,091
+	$509.95
+AMD Phenom II X6 1065T
+5,085
+	NA
+AMD PRO A10-9700E
+5,083
+	$139.00*
+Intel Core i3-4330 @ 3.50GHz
+5,082
+	$339.89
+AMD A8-7670K
+5,071
+	$125.00
+Intel Xeon W3520 @ 2.67GHz
+5,061
+	$403.90*
+AMD Athlon X4 840
+5,044
+	$78.74*
+Intel Core i3-4160 @ 3.60GHz
+5,042
+	$131.63
+Intel Core i7-860 @ 2.80GHz
+5,040
+	$309.95
+AMD Opteron X3421 APU
+5,029
+	NA
+AMD Opteron 4365 EE
+5,025
+	NA
+Intel Xeon E5-4603 @ 2.00GHz
+5,014
+	$712.23*
+AMD A10-7800 APU
+5,013
+	$104.99*
+AMD FX-4320
+5,008
+	NA
+AMD A10-6800B APU
+4,999
+	NA
+AMD A8-9600
+4,997
+	$69.94
+AMD Phenom II X6 1055T
+4,991
+	$185.00*
+Intel Core i5-2405S @ 2.50GHz
+4,980
+	$114.40
+Intel Core i7-870S @ 2.67GHz
+4,969
+	NA
+Intel Core i7-4610M @ 3.00GHz
+4,967
+	NA
+Intel Core i7-920 @ 2.67GHz
+4,949
+	$245.60
+Intel Core i7-5557U @ 3.10GHz
+4,945
+	$705.00*
+Intel Core i7-6650U @ 2.20GHz
+4,942
+	NA
+Intel Core i5-6267U @ 2.90GHz
+4,940
+	NA
+Intel Core i5-2400S @ 2.50GHz
+4,936
+	$157.95
+Intel Core i3-4570T @ 2.90GHz
+4,934
+	NA
+Intel Core i5-4460T @ 1.90GHz
+4,930
+	NA
+AMD A8-7650K
+4,930
+	$106.59
+Intel Core i5-24050S @ 2.50GHz
+4,928
+	NA
+Intel Core i3-7101TE @ 3.40GHz
+4,927
+	$117.00*
+Intel Pentium G4560 @ 3.50GHz
+4,926
+	$95.69
+Intel Core i3-4350 @ 3.60GHz
+4,915
+	$129.99
+Intel Core i3-4150 @ 3.50GHz
+4,895
+	$124.99
+AMD PRO A10-8770E
+4,881
+	NA
+AMD A10-6800K APU
+4,880
+	$205.76*
+Intel Xeon X3450 @ 2.67GHz
+4,874
+	$130.00*
+Intel Xeon E5620 @ 2.40GHz
+4,865
+	$72.62
+AMD Opteron 6274
+4,865
+	$908.95
+AMD A8 PRO-7600B APU
+4,859
+	NA
+AMD Embedded R-Series RX-421BD
+4,857
+	NA
+AMD FX-770K Quad-Core
+4,849
+	NA
+AMD FX-4170 Quad-Core
+4,843
+	$143.61*
+AMD Phenom II X6 1045T
+4,838
+	$175.00*
+Intel Core i5-6360U @ 2.00GHz
+4,836
+	NA
+Intel Xeon X5492 @ 3.40GHz
+4,834
+	$1,391.29*
+Intel Core i7-4600M @ 2.90GHz
+4,832
+	NA
+Intel Core i7-6560U @ 2.20GHz
+4,825
+	NA
+Intel Core i3-6100T @ 3.20GHz
+4,820
+	$125.98
+Intel Core i7-6600U @ 2.60GHz
+4,818
+	NA
+AMD PRO A12-8870E
+4,814
+	NA
+AMD PRO A12-9800E
+4,812
+	$169.00*
+Intel Core i5-4570T @ 2.90GHz
+4,806
+	$345.50*
+Intel Core i3-4130 @ 3.40GHz
+4,792
+	$174.60
+Intel Xeon E5540 @ 2.53GHz
+4,778
+	$189.25
+Intel Core i5-4340M @ 2.90GHz
+4,754
+	NA
+AMD FX-9830P
+4,754
+	NA
+Intel Core i5-6287U @ 3.10GHz
+4,751
+	$304.00*
+Intel Xeon X5667 @ 3.07GHz
+4,722
+	$99.90*
+Intel Core i7-4578U @ 3.00GHz
+4,719
+	NA
+Intel Core i7-860S @ 2.53GHz
+4,711
+	$422.01
+AMD Opteron 2435
+4,708
+	$120.40*
+AMD A10-6790K APU
+4,705
+	$206.82*
+Intel Core i3-7100H @ 3.00GHz
+4,704
+	$225.00*
+Intel Xeon D-1518 @ 2.20GHz
+4,700
+	NA
+Intel Xeon X3380 @ 3.16GHz
+4,697
+	NA
+AMD Phenom II X6 1035T
+4,684
+	$189.00*
+Intel Core i5-2500T @ 2.30GHz
+4,680
+	NA
+Intel Core i5-7200U @ 2.50GHz
+4,677
+	NA
+Intel Xeon X5470 @ 3.33GHz
+4,673
+	$276.00*
+AMD FX-4300 Quad-Core
+4,660
+	$69.95
+Intel Core i5-5287U @ 2.90GHz
+4,653
+	NA
+Intel Core2 Extreme X9775 @ 3.20GHz
+4,646
+	$1,805.95*
+AMD A10-5800K APU
+4,638
+	$125.99*
+Intel Core i3-4360T @ 3.20GHz
+4,636
+	NA
+Intel Core i7-3540M @ 3.00GHz
+4,636
+	$429.95*
+AMD Opteron 6136
+4,631
+	$359.00
+AMD FX-7600P APU
+4,627
+	NA
+Intel Core2 Extreme X9770 @ 3.20GHz
+4,614
+	$1,608.95*
+AMD FX-B4150 Quad-Core
+4,611
+	NA
+Intel Xeon E5530 @ 2.40GHz
+4,605
+	$38.31*
+AMD A10-6700 APU
+4,604
+	$149.99*
+AMD A8-6500B APU
+4,601
+	NA
+Intel Core2 Extreme X9750 @ 3.16GHz
+4,597
+	NA
+Intel Xeon E5-2609 @ 2.40GHz
+4,594
+	$110.98
+AMD FX-4150 Quad-Core
+4,587
+	NA
+AMD Athlon X4 760K Quad Core
+4,582
+	$113.24*
+Intel Xeon X5482 @ 3.20GHz
+4,581
+	$99.99*
+AMD A8-6600K APU
+4,577
+	$259.95*
+Intel Xeon E5-2407 v2 @ 2.40GHz
+4,575
+	$476.31*
+Intel Core i5-4310M @ 2.70GHz
+4,572
+	NA
+Intel Core i5-4330M @ 2.80GHz
+4,564
+	$274.99*
+Intel Core i3-4170T @ 3.20GHz
+4,560
+	$165.00*
+Intel Xeon X3440 @ 2.53GHz
+4,557
+	$155.01*
+Intel Core 860 @ 2.80GHz
+4,555
+	$309.00*
+Intel Core i7-6498DU @ 2.50GHz
+4,551
+	NA
+AMD Athlon X4 750 Quad Core
+4,551
+	NA
+AMD Opteron 6128
+4,542
+	$73.06*
+AMD FirePro A320 APU
+4,540
+	NA
+Intel Core i5-4210H @ 2.90GHz
+4,531
+	NA
+AMD A10-5800B APU
+4,530
+	NA
+Intel Core i5-3470T @ 2.90GHz
+4,528
+	$227.03
+Intel Core i7-3520M @ 2.90GHz
+4,526
+	$235.00*
+AMD Opteron 2431
+4,516
+	$37.00
+AMD Phenom II X4 975
+4,515
+	$129.99*
+AMD Phenom II X4 980
+4,508
+	$136.64*
+AMD FX-670K Quad-Core
+4,508
+	NA
+Intel Core i3-7130U @ 2.70GHz
+4,495
+	$281.00*
+Intel Core i3-4330T @ 3.00GHz
+4,482
+	NA
+AMD RX-427BB
+4,470
+	NA
+Intel Xeon E5520 @ 2.27GHz
+4,453
+	$20.10*
+AMD A10-9630P
+4,441
+	NA
+Intel Core i3-3250 @ 3.50GHz
+4,434
+	$443.10*
+Intel Core i5-4200H @ 2.80GHz
+4,433
+	NA
+Intel Core i3-3245 @ 3.40GHz
+4,431
+	$123.95
+Intel Core i7-6500U @ 2.50GHz
+4,428
+	NA
+Intel Xeon E3-1220L V2 @ 2.30GHz
+4,427
+	NA
+Intel Xeon L5630 @ 2.13GHz
+4,420
+	$15.90*
+AMD Opteron 4184
+4,418
+	$519.95*
+Intel Core i5-3360M @ 2.80GHz
+4,415
+	$212.35*
+AMD PRO A12-9800B
+4,412
+	NA
+Intel Core i5-3380M @ 2.90GHz
+4,406
+	NA
+Intel Core i5-4300M @ 2.60GHz
+4,405
+	NA
+Intel Core i5-4288U @ 2.60GHz
+4,404
+	NA
+Intel Core i5-5257U @ 2.70GHz
+4,392
+	NA
+Intel Xeon L5520 @ 2.27GHz
+4,387
+	$109.95*
+AMD A8-6500 APU
+4,382
+	$160.99*
+Intel Core i5-6260U @ 1.80GHz
+4,376
+	$518.99*
+Intel Core i3-4160T @ 3.10GHz
+4,375
+	$141.99*
+Intel Xeon X5460 @ 3.16GHz
+4,372
+	$49.91*
+Intel Core i5-6300U @ 2.40GHz
+4,371
+	NA
+AMD Phenom II X4 970
+4,365
+	$171.91*
+Intel Xeon L5530 @ 2.40GHz
+4,351
+	NA
+Intel Core i7-4558U @ 2.80GHz
+4,346
+	NA
+Intel Xeon X3370 @ 3.00GHz
+4,335
+	$367.02*
+Intel Core i3-6100TE @ 2.70GHz
+4,334
+	NA
+Intel Core i3-3225 @ 3.30GHz
+4,333
+	$209.99
+Intel Core i5-4278U @ 2.60GHz
+4,331
+	NA
+AMD A8-5600K APU
+4,331
+	$105.00
+Intel Core i7-4560U @ 1.60GHz
+4,329
+	NA
+Intel Pentium G4600T @ 3.00GHz
+4,328
+	NA
+Intel Core i3-2140 @ 3.50GHz
+4,325
+	NA
+Intel Core i3-3240 @ 3.40GHz
+4,312
+	$67.99
+Intel Core i7-5600U @ 2.60GHz
+4,305
+	NA
+Intel Core i3-4350T @ 3.10GHz
+4,302
+	NA
+Intel Xeon X5698 @ 4.40GHz
+4,272
+	NA
+Intel Core i5-2390T @ 2.70GHz
+4,271
+	$99.90*
+AMD Phenom II X4 B70
+4,261
+	NA
+AMD A12-9730P
+4,258
+	NA
+Intel Core i7-5550U @ 2.00GHz
+4,254
+	NA
+AMD Athlon X4 750K Quad Core
+4,240
+	$76.99*
+AMD FX-4200 Quad-Core
+4,236
+	$228.21*
+Intel Xeon E5450 @ 3.00GHz
+4,232
+	$54.98*
+Intel Core i3-3220 @ 3.30GHz
+4,229
+	$67.99
+Intel Core i5-3340M @ 2.70GHz
+4,228
+	$79.95*
+Intel Core i7-3687U @ 2.10GHz
+4,211
+	NA
+AMD Phenom II X4 965
+4,208
+	$64.95
+AMD A10-5700 APU
+4,208
+	$514.70*
+Intel Core i3-4150T @ 3.00GHz
+4,204
+	$229.95*
+AMD PRO A12-8800B
+4,201
+	NA
+Intel Xeon E5472 @ 3.00GHz
+4,199
+	$43.20*
+Intel Core2 Extreme X9650 @ 3.00GHz
+4,197
+	$909.00*
+Intel Core i5-4210M @ 2.60GHz
+4,197
+	$309.95*
+Intel Pentium G4520 @ 3.60GHz
+4,195
+	$92.90
+AMD FX-8800P
+4,194
+	NA
+Intel Core2 Quad Q9650 @ 3.00GHz
+4,194
+	$78.99
+Intel Core i7-5650U @ 2.20GHz
+4,190
+	NA
+Intel Core i5-6198DU @ 2.30GHz
+4,184
+	NA
+AMD Phenom II X4 B65
+4,177
+	NA
+Intel Pentium G4560T @ 2.90GHz
+4,167
+	NA
+AMD Athlon II X4 559
+4,166
+	NA
+Intel Xeon X5450 @ 3.00GHz
+4,166
+	$157.95*
+AMD Phenom II X4 B99
+4,166
+	NA
+AMD FX-4130 Quad-Core
+4,164
+	$76.99*
+Intel Core i3-6100H @ 2.70GHz
+4,162
+	NA
+Intel Core i7-3555LE @ 2.50GHz
+4,130
+	NA
+Intel Core i3-4130T @ 2.90GHz
+4,122
+	$88.99*
+AMD PRO A12-8830B
+4,109
+	NA
+AMD A12-9720P
+4,097
+	NA
+Intel Core i7-4600U @ 2.10GHz
+4,094
+	NA
+Intel Core i5-4258U @ 2.40GHz
+4,093
+	NA
+Intel Core i5-4308U @ 2.80GHz
+4,084
+	NA
+Intel Core i5-3320M @ 2.60GHz
+4,082
+	$122.74*
+Intel Core i3-2130 @ 3.40GHz
+4,059
+	$104.50
+AMD FX-4100 Quad-Core
+4,055
+	$60.00*
+AMD Phenom II X4 B60
+4,053
+	NA
+AMD FX-7600P
+4,047
+	NA
+Intel Core i5-4200M @ 2.50GHz
+4,040
+	$179.99*
+Intel Xeon X3363 @ 2.83GHz
+4,037
+	$157.95*
+Intel Xeon X5472 @ 3.00GHz
+4,037
+	$225.00*
+AMD FX-9800P
+4,034
+	NA
+Intel Core i3-3210 @ 3.20GHz
+4,025
+	$110.00
+AMD PRO A8-9600B
+4,021
+	NA
+Intel Core i7-4650U @ 1.70GHz
+4,012
+	NA
+AMD Opteron 3350 HE
+4,009
+	NA
+Intel Core i5-6200U @ 2.30GHz
+4,009
+	NA
+AMD Athlon X4 740 Quad Core
+4,008
+	$277.00*
+Intel Core i5-4570TE @ 2.70GHz
+4,008
+	$268.42*
+Intel Core i3-2125 @ 3.30GHz
+3,996
+	$135.00
+Intel Xeon E5440 @ 2.83GHz
+3,994
+	$157.12*
+Intel Core2 Quad Q9550 @ 2.83GHz
+3,992
+	$46.99
+AMD A8-5500 APU
+3,986
+	$129.00*
+Intel Xeon X3360 @ 2.83GHz
+3,984
+	$56.67*
+Intel Core i7-940XM @ 2.13GHz
+3,975
+	NA
+Intel Core i7-3667U @ 2.00GHz
+3,970
+	NA
+Intel Core i7-5500U @ 2.40GHz
+3,968
+	NA
+AMD A8-5500B APU
+3,950
+	NA
+AMD Phenom II X4 955
+3,949
+	$130.16*
+Intel Core2 Quad Q9705 @ 3.16GHz
+3,947
+	NA
+Intel Core i5-4402E @ 1.60GHz
+3,947
+	NA
+AMD Phenom Ultra X4 24500
+3,945
+	NA
+Intel Core i7-4510U @ 2.00GHz
+3,935
+	NA
+Intel Core i7-7Y75 @ 1.30GHz
+3,934
+	NA
+Intel Core i5-3230M @ 2.60GHz
+3,928
+	$256.95*
+Intel Xeon X3353 @ 2.66GHz
+3,925
+	$66.61*
+Intel Core i7-2640M @ 2.80GHz
+3,924
+	$200.78*
+Intel Xeon E5462 @ 2.80GHz
+3,920
+	$27.30*
+AMD PRO A10-8730B
+3,917
+	NA
+Intel Pentium G3258 @ 3.20GHz
+3,909
+	$139.98
+Intel Core i3-2120 @ 3.30GHz
+3,908
+	$56.99
+AMD Phenom II X4 B97
+3,906
+	$79.95
+Intel Core i5-760 @ 2.80GHz
+3,899
+	$229.95
+AMD A10-9620P
+3,883
+	NA
+Intel Xeon X3350 @ 2.66GHz
+3,876
+	$59.99*
+Intel Core i3-4110M @ 2.60GHz
+3,873
+	NA
+AMD Phenom II X4 B55
+3,872
+	NA
+AMD PRO A8-8600B
+3,850
+	NA
+Intel Core i7-3537U @ 2.00GHz
+3,842
+	NA
+Intel Core i3-6157U @ 2.40GHz
+3,838
+	NA
+Intel Xeon L3426 @ 1.87GHz
+3,837
+	$447.01*
+Intel Xeon L7455 @ 2.13GHz
+3,836
+	NA
+AMD Athlon II X4 555
+3,830
+	NA
+Intel Core i7-2620M @ 2.70GHz
+3,830
+	$179.21*
+Intel Core i7-4550U @ 1.50GHz
+3,826
+	NA
+Intel Xeon L3360 @ 2.83GHz
+3,820
+	$89.23*
+Intel Core i3-2102 @ 3.10GHz
+3,817
+	NA
+Intel Core i7-920XM @ 2.00GHz
+3,816
+	$165.55*
+AMD Athlon II X4 553
+3,814
+	NA
+AMD Opteron 8439 SE
+3,813
+	NA
+Intel Core i5-3210M @ 2.50GHz
+3,810
+	$205.00
+AMD A10-9600P
+3,806
+	NA
+AMD Phenom II X4 960T
+3,803
+	$134.99*
+Intel Xeon E5-2407 @ 2.20GHz
+3,795
+	$335.02*
+Intel Xeon E5430 @ 2.66GHz
+3,795
+	$35.50*
+Intel Pentium G4500 @ 3.50GHz
+3,794
+	$71.99
+Intel Core i7-4500U @ 1.80GHz
+3,792
+	NA
+Intel Core i3-7100U @ 2.40GHz
+3,789
+	NA
+AMD A12-9700P
+3,786
+	NA
+Intel Xeon L5430 @ 2.66GHz
+3,777
+	$157.95*
+Intel Core i5-2540M @ 2.60GHz
+3,772
+	$69.95
+Intel Atom C2750 @ 2.40GHz
+3,771
+	$232.00*
+Intel Core i5-5300U @ 2.30GHz
+3,771
+	$487.26
+Intel Core i3-6100E @ 2.70GHz
+3,769
+	NA
+Intel Core2 Quad Q9450 @ 2.66GHz
+3,769
+	$335.25*
+Intel Xeon E5-2603 v2 @ 1.80GHz
+3,766
+	$319.02
+AMD Phenom II X4 973
+3,759
+	NA
+Intel Core i5-2560M @ 2.70GHz
+3,752
+	NA
+AMD Phenom II X4 977
+3,750
+	NA
+Intel Core i5-4300U @ 1.90GHz
+3,740
+	NA
+Intel Core i7-4610Y @ 1.70GHz
+3,738
+	NA
+Intel Core i3-2105 @ 3.10GHz
+3,737
+	$118.00
+AMD Phenom II X4 B95
+3,736
+	$72.95*
+Intel Core i5-3610ME @ 2.70GHz
+3,722
+	NA
+Intel Xeon L5506 @ 2.13GHz
+3,715
+	$125.00*
+AMD Phenom II X4 B50
+3,708
+	NA
+Intel Core i5-750 @ 2.67GHz
+3,707
+	$239.99
+Intel Pentium G3450 @ 3.40GHz
+3,707
+	$175.48*
+Intel Core i5-7Y57 @ 1.20GHz
+3,706
+	NA
+Intel Pentium G3470 @ 3.60GHz
+3,702
+	$104.29*
+AMD A10-6700T APU
+3,702
+	$146.92
+Intel Core i5-4310U @ 2.00GHz
+3,695
+	NA
+Intel Core i3-3220T @ 2.80GHz
+3,691
+	$201.11
+AMD Phenom II X4 945
+3,682
+	$287.89*
+Intel Core i5-2510E @ 2.50GHz
+3,676
+	NA
+Intel Core i3-2100 @ 3.10GHz
+3,672
+	$56.99
+Intel Core i3-5157U @ 2.50GHz
+3,670
+	NA
+Intel Core2 Extreme Q6800 @ 2.93GHz
+3,655
+	$1,125.00*
+Intel Core i3-3240T @ 2.90GHz
+3,653
+	NA
+Intel Core2 Extreme Q6850 @ 3.00GHz
+3,650
+	$1,495.95*
+Intel Core i5-7Y54 @ 1.20GHz
+3,648
+	NA
+AMD PRO A10-8700B
+3,630
+	NA
+AMD A10-7400P
+3,626
+	NA
+AMD Phenom II X4 840T
+3,617
+	$79.95*
+AMD Phenom FX-7750 Quad-Core
+3,616
+	NA
+Intel Core i5-3437U @ 1.90GHz
+3,613
+	NA
+AMD Phenom II X4 940
+3,612
+	$119.99
+Intel Core i5-4350U @ 1.40GHz
+3,610
+	NA
+Intel Core i5-5250U @ 1.60GHz
+3,608
+	$441.89*
+Intel Pentium G3460 @ 3.50GHz
+3,603
+	$288.20*
+Intel Core2 Quad Q9505 @ 2.83GHz
+3,599
+	$190.00*
+AMD Athlon X4 645
+3,595
+	NA
+AMD Athlon II X4 651 Quad-Core
+3,591
+	$178.04*
+Intel Core2 Quad Q9500 @ 2.83GHz
+3,587
+	$33.99
+Intel Core i7-3517U @ 1.90GHz
+3,587
+	NA
+Intel Pentium G4400 @ 3.30GHz
+3,580
+	$53.60
+Intel Core i5-2520M @ 2.50GHz
+3,579
+	$169.60
+AMD A8-3870K APU
+3,578
+	$201.54*
+Intel Xeon E5-2603 @ 1.80GHz
+3,570
+	$414.46*
+Intel Core i3-6100U @ 2.30GHz
+3,567
+	$515.00*
+Intel Xeon E3-1220L @ 2.20GHz
+3,563
+	NA
+Intel Core i5-4260U @ 1.40GHz
+3,560
+	NA
+Intel Core m7-6Y75 @ 1.20GHz
+3,550
+	NA
+AMD Phenom II X4 850
+3,548
+	$111.49*
+Intel Core m3-7Y30 @ 1.00GHz
+3,539
+	NA
+AMD Opteron 2384
+3,538
+	$840.00*
+AMD Opteron 2386 SE
+3,538
+	NA
+Intel Xeon E5420 @ 2.50GHz
+3,537
+	$202.01*
+Intel Core i5-3427U @ 1.80GHz
+3,536
+	$420.05*
+Intel Core m3-7Y32 @ 1.10GHz
+3,527
+	NA
+AMD Phenom II X4 840
+3,513
+	$89.95*
+Intel Core i5-680 @ 3.60GHz
+3,508
+	$109.99
+Intel Core i5-5200U @ 2.20GHz
+3,497
+	NA
+Intel Core2 Extreme Q9300 @ 2.53GHz
+3,494
+	NA
+Intel Xeon L5420 @ 2.50GHz
+3,493
+	$65.00*
+Intel Xeon E5-2403 v2 @ 1.80GHz
+3,492
+	$222.84*
+Intel Xeon X5365 @ 3.00GHz
+3,491
+	$133.78*
+AMD Phenom II 42 TWKR Black Edition
+3,489
+	NA
+AMD Athlon II X4 645
+3,486
+	$99.95*
+AMD Athlon II X4 650
+3,485
+	$166.60*
+AMD Phenom II X4 B45
+3,481
+	NA
+AMD A8-3850 APU
+3,481
+	$199.99*
+Intel Xeon E5-2403 @ 1.80GHz
+3,475
+	$389.69*
+Intel Pentium G3430 @ 3.30GHz
+3,475
+	$116.15*
+Intel Pentium G4500T @ 3.00GHz
+3,471
+	NA
+AMD Phenom II X4 830
+3,462
+	$79.95*
+AMD A10-8700P
+3,460
+	NA
+Intel Core i3-4100M @ 2.50GHz
+3,457
+	$218.57*
+AMD Phenom II X4 B35
+3,443
+	NA
+Quad-Core AMD Opteron 1385
+3,442
+	$54.00*
+Intel Xeon X3230 @ 2.66GHz
+3,442
+	$359.95*
+Intel Core i5-4250U @ 1.30GHz
+3,442
+	$509.00
+AMD Phenom II X4 B25
+3,439
+	NA
+Intel Xeon E5607 @ 2.27GHz
+3,439
+	$141.00*
+AMD Phenom II X4 925
+3,430
+	$159.99*
+AMD Phenom II X4 820
+3,426
+	$89.99*
+Intel Xeon X3330 @ 2.66GHz
+3,425
+	$210.00*
+Intel Core i7-840QM @ 1.87GHz
+3,420
+	$368.90*
+Intel Pentium G3420 @ 3.20GHz
+3,416
+	$201.41*
+Intel Celeron G3920 @ 2.90GHz
+3,412
+	$46.09
+AMD Phenom II X4 B40
+3,412
+	NA
+AMD Phenom II X4 920
+3,409
+	$65.99
+Intel Core i5-655K @ 3.20GHz
+3,401
+	NA
+Intel Core i5-2450M @ 2.50GHz
+3,397
+	$130.00*
+Intel Core i5-4210U @ 1.70GHz
+3,394
+	NA
+Intel Pentium G2140 @ 3.30GHz
+3,387
+	$84.00
+Intel Pentium G3260 @ 3.30GHz
+3,382
+	$87.09
+Intel Xeon X3430 @ 2.40GHz
+3,376
+	$330.09*
+Intel Core i3-3130M @ 2.60GHz
+3,374
+	NA
+Intel Core2 Quad Q9400 @ 2.66GHz
+3,369
+	$29.99
+Intel Xeon L5410 @ 2.33GHz
+3,367
+	$100.08*
+AMD Athlon II X4 641 Quad-Core
+3,364
+	$91.50*
+AMD Phenom II X4 B93
+3,358
+	NA
+Intel Atom C2750 @ 2.41GHz
+3,344
+	NA
+AMD A10-5750M APU
+3,342
+	NA
+Intel Core i7-3517UE @ 1.70GHz
+3,337
+	NA
+Intel Xeon X3320 @ 2.50GHz
+3,335
+	$229.50*
+Intel Celeron G3950 @ 3.00GHz
+3,334
+	$126.03*
+Intel Core m5-6Y54 @ 1.10GHz
+3,325
+	NA
+AMD Athlon II X4 640
+3,323
+	$79.95
+AMD A8-7200P
+3,315
+	NA
+Intel Core i5-2515E @ 2.50GHz
+3,313
+	NA
+Intel Core i5-670 @ 3.47GHz
+3,312
+	$252.01
+Intel Core i5-2415M @ 2.30GHz
+3,311
+	NA
+Quad-Core AMD Opteron 1389
+3,308
+	NA
+Intel Core2 Quad Q6700 @ 2.66GHz
+3,300
+	$22.99
+AMD Phenom II X4 910e
+3,279
+	$156.99*
+Intel Core i5-4200U @ 1.60GHz
+3,278
+	NA
+Intel Pentium G3440 @ 3.30GHz
+3,277
+	$174.86*
+Intel Core i5-2430M @ 2.40GHz
+3,273
+	$150.00*
+Intel Xeon E5410 @ 2.33GHz
+3,272
+	$57.00*
+AMD Phenom II X4 910
+3,270
+	$100.00*
+Intel Core i5-2435M @ 2.40GHz
+3,269
+	NA
+Intel Xeon X5355 @ 2.66GHz
+3,267
+	$64.00*
+AMD PRO A6-9500
+3,262
+	$74.00*
+Intel Pentium G3250 @ 3.20GHz
+3,262
+	$94.95
+AMD Opteron 3260 HE
+3,259
+	NA
+AMD Athlon II X4 635
+3,256
+	$69.95*
+Intel Core i5-660 @ 3.33GHz
+3,254
+	$100.90*
+Intel Core i7-820QM @ 1.73GHz
+3,250
+	$139.00*
+AMD A8-8600P
+3,247
+	NA
+AMD A10 PRO-7350B APU
+3,244
+	NA
+Intel Pentium G4400T @ 2.90GHz
+3,243
+	NA
+Intel Core2 Quad Q9100 @ 2.26GHz
+3,238
+	$385.89*
+Intel Core i3-4000M @ 2.40GHz
+3,234
+	$199.95*
+Intel Core m5-6Y57 @ 1.10GHz
+3,225
+	NA
+AMD A8-6500T APU
+3,221
+	NA
+Intel Core i7-3689Y @ 1.50GHz
+3,219
+	NA
+Intel Core i5-3337U @ 1.80GHz
+3,213
+	$225.00*
+Intel Core i3-3120M @ 2.50GHz
+3,212
+	$160.00*
+AMD FX-7500 APU
+3,210
+	NA
+Intel Pentium 4415U @ 2.30GHz
+3,210
+	NA
+Intel Pentium G2130 @ 3.20GHz
+3,210
+	$84.99
+Intel Core i7-740QM @ 1.73GHz
+3,203
+	$159.95*
+AMD A6-3670 APU
+3,202
+	$148.00
+AMD Athlon II X4 638 Quad-Core
+3,198
+	NA
+Intel Core2 Quad Q8400 @ 2.66GHz
+3,187
+	$50.00*
+AMD A6-9500
+3,187
+	$86.38
+Intel Pentium G3240 @ 3.10GHz
+3,182
+	$70.88*
+Intel Core i5-661 @ 3.33GHz
+3,181
+	$252.01
+Intel Core i3-5020U @ 2.20GHz
+3,180
+	$459.00*
+AMD Opteron 2378
+3,179
+	$179.00*
+AMD Athlon X4 640
+3,172
+	NA
+Intel Xeon X3323 @ 2.50GHz
+3,170
+	$70.99*
+Intel Core2 Quad Q9300 @ 2.50GHz
+3,169
+	$22.99
+AMD Opteron 4162 EE
+3,166
+	NA
+AMD A6-3650 APU
+3,163
+	$79.50*
+Intel Core i5-2410M @ 2.30GHz
+3,163
+	$109.95
+Intel Atom C2758 @ 2.40GHz
+3,162
+	$214.86*
+AMD Phenom 9850B Quad-Core
+3,160
+	NA
+AMD Athlon II X4 631 Quad-Core
+3,154
+	$19.99*
+AMD A8-3820 APU
+3,151
+	$124.99*
+Intel Pentium G3220 @ 3.00GHz
+3,149
+	$102.60*
+Intel Xeon E5507 @ 2.27GHz
+3,147
+	$456.91*
+Intel Core i3-2120T @ 2.60GHz
+3,146
+	$113.00
+AMD Athlon II X4 630
+3,144
+	$58.00
+AMD Phenom II X4 810
+3,135
+	$115.99*
+Intel Core i3-4330TE @ 2.40GHz
+3,133
+	NA
+Intel Core i3-6006U @ 2.00GHz
+3,131
+	NA
+Intel Core i7-2655LE @ 2.20GHz
+3,122
+	NA
+AMD A10-4600M APU
+3,113
+	NA
+Intel Core i5-650 @ 3.20GHz
+3,111
+	$157.95
+Intel Core i5-5350U @ 1.80GHz
+3,106
+	NA
+AMD Phenom II X4 905e
+3,105
+	$212.38*
+AMD A6-8550
+3,104
+	NA
+Intel Pentium G3440T @ 2.80GHz
+3,101
+	NA
+Intel Xeon X3220 @ 2.40GHz
+3,097
+	$57.99*
+Intel Core i5-3317U @ 1.70GHz
+3,087
+	$225.00*
+AMD A10-5757M APU
+3,086
+	NA
+Intel Pentium G2120 @ 3.10GHz
+3,074
+	$158.95*
+Intel Core i3-2330E @ 2.20GHz
+3,073
+	NA
+Intel Core i3-3110M @ 2.40GHz
+3,070
+	$79.95
+AMD Opteron 2427
+3,069
+	$95.14*
+AMD Phenom II X3 B77
+3,067
+	NA
+AMD Opteron 1381
+3,065
+	NA
+Intel Celeron G3930 @ 2.90GHz
+3,064
+	NA
+AMD Athlon X3 450
+3,064
+	$78.99*
+Intel Core i3-5010U @ 2.10GHz
+3,063
+	$330.81
+Intel Core M-5Y71 @ 1.20GHz
+3,062
+	$281.00*
+AMD A8-3800 APU
+3,062
+	$169.99*
+Intel Celeron G3900 @ 2.80GHz
+3,059
+	$41.60
+Intel Core m3-6Y30 @ 0.90GHz
+3,051
+	NA
+Intel Core i3-4120U @ 2.00GHz
+3,050
+	NA
+AMD PRO A6-8570
+3,049
+	NA
+AMD PRO A6-8550B
+3,042
+	NA
+Intel Xeon E5606 @ 2.13GHz
+3,034
+	$65.99*
+Intel Core i3-5015U @ 2.10GHz
+3,032
+	NA
+Intel Core i7-720QM @ 1.60GHz
+3,026
+	$109.95
+AMD Phenom 9950 Quad-Core
+3,022
+	$179.98*
+Intel Core i3-3250T @ 3.00GHz
+3,021
+	NA
+Intel Core i5-4302Y @ 1.60GHz
+3,013
+	NA
+Intel Xeon L5408 @ 2.13GHz
+3,010
+	NA
+Intel Core M-5Y70 @ 1.10GHz
+3,009
+	NA
+Intel Pentium G3420T @ 2.70GHz
+3,008
+	$99.99
+AMD Phenom 2 X4 12000
+3,005
+	NA
+AMD Phenom II X3 740
+3,002
+	$88.99*
+AMD Phenom II X4 805
+2,997
+	$173.99*
+Intel Xeon E5506 @ 2.13GHz
+2,995
+	$49.98*
+Intel Core2 Quad Q8300 @ 2.50GHz
+2,995
+	$155.00
+AMD A8-5550M APU
+2,993
+	NA
+AMD Phenom 7950 Quad-Core
+2,991
+	NA
+Intel Xeon X6550 @ 2.00GHz
+2,977
+	NA
+AMD R-464L APU
+2,976
+	NA
+Intel Pentium 4405U @ 2.10GHz
+2,974
+	NA
+Intel Pentium G3250T @ 2.80GHz
+2,970
+	$45.99*
+Intel Pentium G3450T @ 2.90GHz
+2,967
+	NA
+Intel Core2 Quad Q6600 @ 2.40GHz
+2,966
+	$157.95
+Intel Core i3-560 @ 3.33GHz
+2,960
+	$179.95
+AMD A8-5557M APU
+2,959
+	NA
+AMD Opteron 2374 HE
+2,951
+	$189.99*
+AMD Phenom FX-5200 Quad-Core
+2,948
+	NA
+AMD Phenom II X3 B75
+2,947
+	NA
+AMD Athlon II X4 620
+2,945
+	$64.95*
+AMD Opteron 4122
+2,942
+	$259.95
+AMD Opteron 6134
+2,938
+	$595.95
+Intel Xeon E5345 @ 2.33GHz
+2,938
+	$508.95*
+Intel Pentium G3240T @ 2.70GHz
+2,936
+	NA
+Intel Pentium G3260T @ 2.90GHz
+2,919
+	$99.99
+AMD A10-7300 APU
+2,917
+	NA
+Intel Core i3-5005U @ 2.00GHz
+2,916
+	NA
+Intel Core i3-4158U @ 2.00GHz
+2,914
+	NA
+AMD A10-4657M APU
+2,906
+	NA
+AMD Athlon II X4 620e
+2,906
+	NA
+AMD PRO A6-8570E
+2,906
+	NA
+Intel Core i3-2100T @ 2.50GHz
+2,903
+	$180.30*
+Intel Celeron G3900T @ 2.60GHz
+2,902
+	NA
+Intel Core i3-4110U @ 1.90GHz
+2,902
+	NA
+Intel Core i7-2637M @ 1.70GHz
+2,898
+	NA
+AMD Phenom 9850 Quad-Core
+2,894
+	$50.00*
+AMD Athlon X4 635
+2,891
+	$121.99*
+AMD Athlon II X4 615e
+2,891
+	$59.00*
+Intel Core i5-3439Y @ 1.50GHz
+2,890
+	NA
+Intel Celeron G1840 @ 2.80GHz
+2,883
+	$102.05
+Intel Pentium G2030 @ 3.00GHz
+2,883
+	$40.99
+AMD PRO A4-8350B
+2,881
+	NA
+AMD Athlon II X4 655
+2,880
+	NA
+Intel Celeron G1850 @ 2.90GHz
+2,879
+	$80.00*
+Intel Xeon E5405 @ 2.00GHz
+2,878
+	$34.99*
+AMD Athlon 5370 APU
+2,874
+	$63.70*
+AMD Athlon II X3 460
+2,873
+	$84.99*
+AMD Athlon X4 620
+2,861
+	$64.95
+Intel Core i7-640M @ 2.80GHz
+2,854
+	$179.95
+AMD Phenom II X4 900e
+2,853
+	NA
+Intel Core i3-2310E @ 2.10GHz
+2,839
+	$225.00*
+Celeron Dual-Core Q8300 @ 2.50GHz
+2,837
+	NA
+Intel Pentium G870 @ 3.10GHz
+2,836
+	$97.00*
+Intel Core i7-2677M @ 1.80GHz
+2,834
+	NA
+AMD PRO A4-3350B APU
+2,833
+	NA
+Intel Core i3-550 @ 3.20GHz
+2,833
+	$59.99
+AMD A8-7100 APU
+2,830
+	NA
+AMD Phenom 9750 Quad-Core
+2,828
+	$59.95*
+AMD A6-7470K
+2,822
+	$70.00
+AMD A6-3620 APU
+2,822
+	$59.99*
+Intel Core2 Quad Q8200 @ 2.33GHz
+2,821
+	$20.99
+AMD Opteron 2350
+2,820
+	$269.99*
+AMD Opteron 2356
+2,814
+	$14.95
+Intel Core M-5Y10c @ 0.80GHz
+2,812
+	$281.00*
+AMD Phenom X4 Quad-Core GP-9730
+2,812
+	NA
+AMD Athlon II X4 610e
+2,806
+	$69.99*
+Intel Core i7-2617M @ 1.50GHz
+2,803
+	NA
+Intel Pentium G2100T @ 2.60GHz
+2,802
+	NA
+AMD A4 PRO-7350B
+2,794
+	NA
+AMD A6-7400K APU
+2,792
+	$60.67
+AMD Phenom II X4 B05e
+2,781
+	NA
+Intel Celeron G1820 @ 2.70GHz
+2,772
+	$83.94*
+AMD Athlon II X3 455
+2,771
+	$89.95*
+Intel Pentium G2020 @ 2.90GHz
+2,768
+	$33.85
+Intel Xeon X3210 @ 2.13GHz
+2,767
+	$149.00*
+Intel E3000 @ 3.40GHz
+2,767
+	NA
+Intel Core i3-4025U @ 1.90GHz
+2,766
+	NA
+AMD Opteron 1356
+2,765
+	$89.99*
+AMD A10-5745M APU
+2,763
+	NA
+Intel Core M-5Y31 @ 0.90GHz
+2,763
+	NA
+Intel Xeon L5335 @ 2.00GHz
+2,756
+	$121.69*
+Intel Core i3-2370M @ 2.40GHz
+2,755
+	$59.00*
+Intel Pentium G860 @ 3.00GHz
+2,754
+	$29.99
+AMD PRO A6-9500E
+2,752
+	$74.00*
+AMD Phenom II X3 B73
+2,749
+	$75.00*
+Intel Pentium 1403 @ 2.60GHz
+2,747
+	NA
+AMD Athlon II X4 605e
+2,743
+	$101.80*
+Intel Core M-5Y10 @ 0.80GHz
+2,741
+	NA
+Intel Core i7-620M @ 2.67GHz
+2,739
+	$110.01
+AMD Phenom II X4 B15e
+2,736
+	NA
+Intel Xeon E5504 @ 2.00GHz
+2,735
+	$25.00*
+AMD A8 PRO-7150B APU
+2,728
+	NA
+AMD A8-7410 APU
+2,724
+	NA
+AMD A6 PRO-7400B
+2,721
+	NA
+AMD Phenom X4 Quad-Core GP-9830
+2,715
+	NA
+AMD A6-3600 APU
+2,711
+	$149.99*
+AMD Phenom 9750B Quad-Core
+2,709
+	NA
+Intel Celeron G3900E @ 2.40GHz
+2,707
+	NA
+Intel Core i3-4030U @ 1.90GHz
+2,705
+	NA
+AMD Phenom II X940 Quad-Core
+2,695
+	NA
+Intel Core i3-540 @ 3.07GHz
+2,691
+	$44.99
+AMD Phenom X4 Quad-Core GP-9930
+2,690
+	NA
+AMD Phenom II X3 720
+2,686
+	$74.99*
+AMD A6-7310 APU
+2,685
+	NA
+AMD Opteron 3320 EE
+2,675
+	NA
+Intel Pentium G850 @ 2.90GHz
+2,663
+	$27.99
+AMD A8-4500M APU
+2,661
+	NA
+AMD Phenom II N830 3+1
+2,652
+	NA
+Intel Core i5-2557M @ 1.70GHz
+2,651
+	NA
+AMD Phenom II X3 715
+2,649
+	$84.99*
+AMD Phenom 9650 Quad-Core
+2,641
+	$54.95*
+AMD Opteron 2380
+2,640
+	$25.00*
+AMD Phenom II X920 Quad-Core
+2,638
+	NA
+Intel Core i5-580M @ 2.67GHz
+2,637
+	$109.95*
+AMD A8-3550MX APU
+2,629
+	NA
+AMD Athlon II X3 450
+2,625
+	$44.95
+AMD Embedded G-Series GX-420GI Radeon R7E
+2,621
+	NA
+AMD Phenom 9450e Quad-Core
+2,621
+	$105.00*
+Intel Pentium G2010 @ 2.80GHz
+2,618
+	$35.99
+Intel Core i3-2350M @ 2.30GHz
+2,615
+	$41.97
+Intel Core i3-2348M @ 2.30GHz
+2,614
+	NA
+AMD A6-6420B APU
+2,612
+	NA
+AMD A9-9410
+2,612
+	NA
+AMD Opteron 1354
+2,608
+	$309.97*
+Intel Celeron G1840T @ 2.50GHz
+2,605
+	NA
+Intel Pentium G3220T @ 2.60GHz
+2,603
+	$39.99*
+Intel Pentium G645 @ 2.90GHz
+2,600
+	$95.00*
+AMD Athlon II X4 6400e
+2,594
+	NA
+AMD Athlon 5350 APU
+2,594
+	$201.49
+Intel Core i5-560M @ 2.67GHz
+2,593
+	$81.97
+Intel Core i7-2630UM @ 1.60GHz
+2,584
+	NA
+AMD A10-4655M APU
+2,584
+	NA
+Intel Celeron G1830 @ 2.80GHz
+2,583
+	$70.99*
+Intel Celeron G1620 @ 2.70GHz
+2,582
+	$82.92*
+Intel Core i3-530 @ 2.93GHz
+2,580
+	$64.99
+AMD Athlon II X3 445
+2,580
+	$91.00*
+AMD A8-5545M APU
+2,578
+	NA
+AMD Phenom 9600B Quad-Core
+2,577
+	$147.19*
+AMD Athlon X3 435
+2,574
+	$95.49*
+Intel Pentium G840 @ 2.80GHz
+2,573
+	$59.99*
+Intel Pentium 3825U @ 1.90GHz
+2,573
+	NA
+AMD Athlon II X3 440
+2,571
+	$46.95*
+AMD A4-6250J APU
+2,556
+	NA
+Intel Core M-5Y51 @ 1.10GHz
+2,551
+	NA
+AMD A8-6410 APU
+2,546
+	NA
+Intel Core i7-610E @ 2.53GHz
+2,544
+	NA
+AMD Phenom 9550 Quad-Core
+2,542
+	$39.95*
+Intel Atom C3558 @ 2.20GHz
+2,538
+	$86.00*
+Intel Core i3-2330M @ 2.20GHz
+2,529
+	$49.95
+Intel Core2 Quad Q9000 @ 2.00GHz
+2,528
+	$389.00*
+Intel Core i3-2328M @ 2.20GHz
+2,526
+	NA
+Intel Pentium G640 @ 2.80GHz
+2,525
+	$24.99
+Intel Xeon X5270 @ 3.50GHz
+2,524
+	NA
+Intel Core i5-4300Y @ 1.60GHz
+2,521
+	NA
+AMD Phenom FX-5000 Quad-Core
+2,518
+	NA
+AMD Phenom II N970 Quad-Core
+2,516
+	$149.99*
+AMD PRO A6-8500B
+2,516
+	NA
+Intel Xeon E5335 @ 2.00GHz
+2,513
+	$309.00
+AMD Athlon X4 605e
+2,505
+	NA
+Intel Celeron G1820T @ 2.40GHz
+2,502
+	$42.00*
+AMD A4-7210 APU
+2,501
+	NA
+Pentium Dual-Core E6000 @ 3.46GHz
+2,501
+	NA
+Intel Celeron G1610 @ 2.60GHz
+2,498
+	$24.99
+AMD Phenom II N950 Quad-Core
+2,493
+	$112.60*
+Intel Celeron G1630 @ 2.80GHz
+2,488
+	$64.01
+Intel Pentium G2020T @ 2.50GHz
+2,486
+	$64.00*
+Intel Core i5 E 520 @ 2.40GHz
+2,486
+	NA
+Intel Core i3-4030Y @ 1.60GHz
+2,482
+	NA
+Intel Core i7-2610UE @ 1.50GHz
+2,481
+	NA
+AMD Athlon II X3 435
+2,472
+	$39.95*
+Intel Pentium G2030T @ 2.60GHz
+2,470
+	$64.00*
+Intel Core i3-3227U @ 1.90GHz
+2,458
+	NA
+Intel Xeon X5260 @ 3.33GHz
+2,451
+	$139.24*
+AMD GX-424CC SOC
+2,449
+	NA
+Intel Core i3-4010U @ 1.70GHz
+2,449
+	$124.31
+AMD Phenom II X3 710
+2,449
+	$84.53*
+Intel Core i3-4005U @ 1.70GHz
+2,446
+	NA
+Intel Core i5-540M @ 2.53GHz
+2,446
+	$189.95*
+AMD PRO A6-8530B
+2,435
+	NA
+Intel Core i3-2310M @ 2.10GHz
+2,429
+	$44.99
+Intel Xeon E3113 @ 3.00GHz
+2,427
+	NA
+AMD A6-6310 APU
+2,425
+	NA
+Intel Xeon E5240 @ 3.00GHz
+2,424
+	NA
+Intel Celeron G555 @ 2.70GHz
+2,422
+	$109.99
+Intel Core i5-480M @ 2.67GHz
+2,417
+	$80.60*
+AMD Athlon II X4 600e
+2,415
+	$130.23*
+Intel Pentium 2030M @ 2.50GHz
+2,415
+	$134.00*
+Intel Xeon E7320 @ 2.13GHz
+2,413
+	NA
+Intel Core2 Duo E8600 @ 3.33GHz
+2,409
+	$22.99
+AMD Embedded R-Series RX-216GD
+2,409
+	NA
+AMD A6-5200 APU
+2,407
+	NA
+Intel Core i5-4200Y @ 1.40GHz
+2,407
+	NA
+AMD A4 PRO-3340B
+2,402
+	NA
+AMD Athlon X3 455
+2,401
+	NA
+Intel Xeon X5272 @ 3.40GHz
+2,394
+	$140.00*
+Intel Pentium G3320TE @ 2.30GHz
+2,389
+	NA
+AMD A8-3510MX APU
+2,387
+	NA
+AMD PRO A6-9500B
+2,382
+	NA
+Intel Core i3-2332M @ 2.20GHz
+2,382
+	NA
+AMD A8-3530MX APU
+2,381
+	NA
+Intel Core i3-2312M @ 2.10GHz
+2,381
+	NA
+AMD Phenom II X4 8700e
+2,377
+	NA
+Intel Core i5-520M @ 2.40GHz
+2,375
+	$99.99
+AMD Opteron 1352
+2,368
+	$135.99*
+Intel Pentium G630 @ 2.70GHz
+2,367
+	$24.99
+Intel Celeron 2000E @ 2.20GHz
+2,365
+	NA
+Intel Xeon E5603 @ 1.60GHz
+2,364
+	$129.04*
+Intel Core i5-4210Y @ 1.50GHz
+2,360
+	NA
+AMD A6-9220
+2,358
+	NA
+Intel Core2 Duo E8290 @ 2.83GHz
+2,353
+	NA
+Intel Celeron G1620T @ 2.40GHz
+2,353
+	$42.00*
+AMD A4 PRO-7300B APU
+2,342
+	NA
+AMD A9-9420
+2,342
+	NA
+Intel Core i5-460M @ 2.53GHz
+2,334
+	$79.95*
+Intel Core i5-2467M @ 1.60GHz
+2,333
+	NA
+Intel Atom C2550 @ 2.40GHz
+2,329
+	NA
+Intel Celeron G1610T @ 2.30GHz
+2,322
+	$40.04*
+AMD A4-6320 APU
+2,322
+	$54.90*
+AMD Phenom 9350e Quad-Core
+2,320
+	$3,382.07*
+AMD Athlon II X3 425
+2,316
+	$41.96*
+AMD Athlon X3 445
+2,314
+	NA
+AMD Opteron X3216 APU
+2,313
+	NA
+Intel Pentium G645T @ 2.50GHz
+2,313
+	NA
+Intel Pentium G6951 @ 2.80GHz
+2,311
+	$94.00*
+Intel Celeron 2970M @ 2.20GHz
+2,304
+	NA
+AMD Phenom 9600 Quad-Core
+2,303
+	$89.80*
+Intel Pentium 3550M @ 2.30GHz
+2,303
+	NA
+AMD Athlon X2 280
+2,303
+	$174.81*
+Intel Pentium G620 @ 2.60GHz
+2,302
+	$24.99
+Intel Pentium J4205 @ 1.50GHz
+2,300
+	NA
+AMD GX-420CA SOC
+2,299
+	NA
+Intel Core i3-3217U @ 1.80GHz
+2,299
+	$347.12*
+Intel Pentium 2020M @ 2.40GHz
+2,294
+	$134.00*
+Intel Celeron G550 @ 2.60GHz
+2,291
+	$19.99
+Intel Core2 Duo E8500 @ 3.16GHz
+2,290
+	$19.99
+AMD A6-6400K APU
+2,288
+	$48.01
+AMD Athlon II X3 420e
+2,286
+	$116.15*
+AMD A4-7300 APU
+2,283
+	$42.30
+AMD Opteron 2376
+2,283
+	$15.00
+AMD A6-6420K APU
+2,282
+	$69.00*
+AMD E2-7110 APU
+2,281
+	NA
+AMD A6-6400B APU
+2,281
+	NA
+Intel Pentium 3560M @ 2.40GHz
+2,275
+	NA
+Intel Xeon L5310 @ 1.60GHz
+2,274
+	$112.50*
+Intel Xeon L3110 @ 3.00GHz
+2,273
+	NA
+Intel Xeon E5320 @ 1.86GHz
+2,272
+	$157.95*
+Intel Xeon L5240 @ 3.00GHz
+2,271
+	$157.95*
+AMD Phenom II N930 Quad-Core
+2,268
+	$99.86*
+AMD Phenom II X3 700e
+2,266
+	NA
+Intel Xeon E5310 @ 1.60GHz
+2,264
+	$259.95*
+Intel Core i5-4220Y @ 1.60GHz
+2,262
+	NA
+Intel Core i5-4202Y @ 1.60GHz
+2,256
+	NA
+AMD Opteron 8354
+2,255
+	$12.00
+AMD Athlon X2 370K Dual Core
+2,251
+	NA
+AMD Athlon II X3 415e
+2,247
+	$75.00*
+AMD Opteron 2393 SE
+2,246
+	NA
+Intel Core i7-640LM @ 2.13GHz
+2,244
+	NA
+Intel Core i5-520 @ 2.40GHz
+2,244
+	NA
+Intel Xeon E3120 @ 3.16GHz
+2,241
+	NA
+AMD Athlon II X3 425e
+2,239
+	NA
+AMD Phenom X4 Quad-Core GP-9600
+2,235
+	NA
+Intel Celeron 1020E @ 2.20GHz
+2,232
+	NA
+Intel Core i5-3339Y @ 1.50GHz
+2,228
+	NA
+AMD Phenom II X3 705e
+2,227
+	$152.34*
+AMD A4-6300 APU
+2,225
+	$48.04
+AMD A6-3430MX APU
+2,225
+	NA
+AMD Phenom 9500 Quad-Core
+2,212
+	$89.96*
+Intel Core2 Duo E8700 @ 3.50GHz
+2,212
+	NA
+AMD A9-9400
+2,209
+	NA
+AMD Phenom II X2 565
+2,207
+	$124.95*
+Intel Celeron G540 @ 2.50GHz
+2,206
+	$20.99
+AMD Phenom X2 Dual-Core GE-5560
+2,206
+	NA
+AMD A6-9230
+2,201
+	NA
+Intel Core i3-4020Y @ 1.50GHz
+2,199
+	NA
+Intel Core i5 750S @ 2.40GHz
+2,197
+	$252.01
+AMD A6-5400B APU
+2,193
+	$105.04*
+AMD Athlon X3 425
+2,191
+	NA
+AMD Phenom II X620 Dual-Core
+2,189
+	NA
+Intel Core i3-4012Y @ 1.50GHz
+2,186
+	NA
+AMD A8-3520M APU
+2,184
+	NA
+AMD A6-8500P
+2,183
+	NA
+AMD A4-5050 APU
+2,180
+	NA
+HP Hexa-Core 2.0GHz
+2,178
+	$504.27*
+Intel Xeon E3110 @ 3.00GHz
+2,169
+	$248.00*
+Intel Atom C2558 @ 2.40GHz
+2,169
+	$136.00*
+AMD Athlon II X2 280
+2,167
+	$99.99*
+Intel Core i3-390M @ 2.67GHz
+2,166
+	$38.95*
+Intel Core i3-3217UE @ 1.60GHz
+2,162
+	NA
+Intel Celeron J3455 @ 1.50GHz
+2,160
+	$233.52*
+Intel Core2 Duo E8400 @ 3.00GHz
+2,156
+	$11.00
+AMD Phenom II X2 B59
+2,154
+	$49.95*
+AMD Opteron 6378
+2,152
+	$399.00
+Intel Core M-5Y10a @ 0.80GHz
+2,150
+	NA
+Intel Celeron G530 @ 2.40GHz
+2,145
+	$69.99
+AMD A6-5400K APU
+2,143
+	$79.62
+AMD A4-6210 APU
+2,143
+	NA
+Intel Core2 Duo T9900 @ 3.06GHz
+2,140
+	$398.95*
+Intel Xeon L5320 @ 1.86GHz
+2,135
+	$69.99*
+Intel Celeron G1820TE @ 2.20GHz
+2,132
+	NA
+Intel Core2 Duo E8335 @ 2.93GHz
+2,128
+	NA
+Intel Core2 Duo E8435 @ 3.06GHz
+2,127
+	NA
+AMD A8-4555M APU
+2,125
+	NA
+AMD Phenom 9150e Quad-Core
+2,124
+	$39.95*
+Intel Pentium G630T @ 2.30GHz
+2,123
+	$79.99*
+Intel Pentium 4410Y @ 1.50GHz
+2,119
+	$161.00*
+Intel Celeron G540T @ 2.10GHz
+2,114
+	NA
+Intel Core i5-450M @ 2.40GHz
+2,112
+	$31.95*
+Intel Xeon E3-1220L v3 @ 1.10GHz
+2,110
+	NA
+AMD Phenom 8850 Triple-Core
+2,109
+	NA
+AMD Athlon II X2 B28
+2,109
+	$43.00*
+AMD Phenom II X2 511
+2,104
+	NA
+Intel Core i3-380M @ 2.53GHz
+2,102
+	$49.00
+Intel Core i5-430M @ 2.27GHz
+2,100
+	$109.99*
+AMD A4-6300B APU
+2,098
+	$100.00*
+Intel Pentium G6960 @ 2.93GHz
+2,097
+	NA
+AMD Phenom 8750B Triple-Core
+2,094
+	NA
+AMD Phenom II P960 Quad-Core
+2,093
+	$28.00*
+AMD Phenom II X2 521
+2,093
+	NA
+AMD Athlon 5150 APU
+2,092
+	$108.00*
+AMD Embedded G-Series GX-224IJ Radeon R4E
+2,088
+	NA
+AMD A4-5100 APU
+2,082
+	NA
+AMD Phenom 8850B Triple-Core
+2,080
+	NA
+AMD Phenom 8750 Triple-Core
+2,078
+	NA
+AMD Athlon X3 440
+2,078
+	$87.99*
+Intel Core i5-2537M @ 1.40GHz
+2,073
+	NA
+Intel Celeron G550T @ 2.20GHz
+2,073
+	NA
+AMD A4-5300B APU
+2,068
+	$38.00*
+AMD A6-3410MX APU
+2,062
+	$29.99*
+Intel Pentium 4405Y @ 1.50GHz
+2,058
+	NA
+Intel Pentium G620T @ 2.20GHz
+2,052
+	$79.99*
+Intel Core2 Extreme X9100 @ 3.06GHz
+2,048
+	$851.00*
+Intel Pentium B980 @ 2.40GHz
+2,047
+	$69.95*
+AMD Phenom II X2 560
+2,040
+	$109.95*
+Intel Celeron 3765U @ 1.90GHz
+2,038
+	NA
+AMD Phenom II X2 555
+2,038
+	$299.95*
+AMD Athlon II X3 405e
+2,036
+	$79.99*
+AMD Phenom 8450e Triple-Core
+2,035
+	NA
+Intel Atom E3950 @ 1.60GHz
+2,034
+	NA
+Intel Pentium E6800 @ 3.33GHz
+2,032
+	$831.38*
+AMD Phenom II X2 550
+2,026
+	$133.39*
+Intel Core i3-370M @ 2.40GHz
+2,022
+	$245.40*
+AMD Phenom II X640 Dual-Core
+2,021
+	NA
+Intel Pentium N4200 @ 1.10GHz
+2,019
+	NA
+AMD Athlon II X3 400e
+2,018
+	$107.43*
+AMD A6-3420M APU
+2,015
+	NA
+Intel Core2 Duo T9800 @ 2.93GHz
+2,012
+	$423.89*
+Intel Core2 Duo P9700 @ 2.80GHz
+2,010
+	NA
+Intel Celeron 2950M @ 2.00GHz
+2,008
+	NA
+AMD A6-3500 APU
+2,007
+	$39.99*
+AMD A4-5300 APU
+1,999
+	$59.70
+Intel Core2 Duo E7600 @ 3.06GHz
+1,997
+	$149.95*
+Intel Core2 Duo E8300 @ 2.83GHz
+1,996
+	$13.99
+AMD Phenom X4 Quad-Core GP-9530
+1,994
+	NA
+Intel Pentium 3805U @ 1.90GHz
+1,994
+	NA
+Intel Pentium J3710 @ 1.60GHz
+1,992
+	NA
+AMD Phenom 8650 Triple-Core
+1,992
+	$49.99*
+AMD Athlon II X2 270
+1,989
+	$99.99*
+AMD A8-7050
+1,986
+	NA
+Intel Pentium J2900 @ 2.41GHz
+1,977
+	NA
+AMD A8-3500M APU
+1,973
+	$69.95
+AMD Phenom II N870 Triple-Core
+1,969
+	NA
+Intel Core i7-610 @ 2.53GHz
+1,969
+	NA
+Intel Xeon 5160 @ 3.00GHz
+1,968
+	$14.60*
+Intel Pentium B970 @ 2.30GHz
+1,965
+	$50.99*
+AMD Phenom II X2 570
+1,960
+	NA
+AMD R-460L APU
+1,954
+	NA
+Intel Core2 Duo E6850 @ 3.00GHz
+1,952
+	$65.50
+AMD Athlon II X2 250e
+1,949
+	$76.73*
+Intel Pentium E6700 @ 3.20GHz
+1,948
+	$51.90
+Intel Core2 Duo E8235 @ 2.80GHz
+1,945
+	NA
+Intel Pentium N3540 @ 2.16GHz
+1,945
+	$250.87*
+AMD Phenom 8600B Triple-Core
+1,945
+	$52.99*
+Intel Pentium N3710 @ 1.60GHz
+1,944
+	NA
+VIA QuadCore C4650@2.0GHz
+1,940
+	NA
+Intel Core i7-620LM @ 2.00GHz
+1,939
+	NA
+AMD Phenom II N850 Triple-Core
+1,938
+	$25.00*
+AMD A6-9210
+1,936
+	NA
+Intel Core i3-330E @ 2.13GHz
+1,935
+	NA
+AMD Phenom X3 8550
+1,930
+	$169.95*
+AMD GX-415GA SOC
+1,929
+	NA
+Intel Core2 Duo T9600 @ 2.80GHz
+1,928
+	$64.99*
+AMD E2-9010
+1,921
+	NA
+AMD Opteron 2224 SE
+1,919
+	NA
+Intel Atom x7-Z8750 @ 1.60GHz
+1,919
+	NA
+AMD Phenom II X2 B55
+1,918
+	$48.00*
+AMD A6-5350M APU
+1,911
+	$59.95*
+Intel Pentium E5800 @ 3.20GHz
+1,911
+	$44.99
+Intel Atom x7-Z8700 @ 1.60GHz
+1,910
+	$73.63*
+Intel Pentium G640T @ 2.40GHz
+1,906
+	NA
+AMD Phenom II X2 545
+1,905
+	$49.95*
+AMD A4-5000 APU
+1,903
+	NA
+Intel Core i3-350M @ 2.27GHz
+1,901
+	$44.05
+AMD E2-6110 APU
+1,900
+	NA
+AMD A6-3400M APU
+1,896
+	$34.96*
+Intel Core2 Extreme X9000 @ 2.80GHz
+1,892
+	NA
+Intel Pentium N3530 @ 2.16GHz
+1,890
+	NA
+Intel Core i3-4010Y @ 1.30GHz
+1,890
+	NA
+AMD A10 Micro-6700T APU
+1,890
+	NA
+Intel Core2 Extreme X6800 @ 2.93GHz
+1,889
+	$263.64*
+AMD Athlon X2 340 Dual Core
+1,889
+	$29.99*
+Intel Atom x5-Z8550 @ 1.44GHz
+1,889
+	NA
+AMD A6-5357M APU
+1,888
+	NA
+Intel Core2 Duo E8200 @ 2.66GHz
+1,887
+	$157.95
+AMD Phenom II N830 Triple-Core
+1,886
+	NA
+AMD Phenom 8450 Triple-Core
+1,886
+	$29.95*
+AMD A4-4020 APU
+1,886
+	$70.70
+AMD Athlon II X2 265
+1,885
+	$82.88*
+AMD Phenom II X2 B57
+1,884
+	NA
+AMD Phenom II P920 Quad-Core
+1,881
+	$75.00*
+AMD Athlon II X2 260
+1,878
+	$48.00*
+Intel Core2 Duo E7500 @ 2.93GHz
+1,877
+	$13.99
+Intel Pentium E6600 @ 3.06GHz
+1,875
+	$14.00
+AMD E2-9000
+1,873
+	NA
+Intel Core2 Duo P9600 @ 2.66GHz
+1,873
+	NA
+Intel Celeron J1900 @ 1.99GHz
+1,863
+	NA
+Intel Xeon W3505 @ 2.53GHz
+1,858
+	NA
+Intel Pentium B960 @ 2.20GHz
+1,856
+	$48.99*
+Intel Pentium N3700 @ 1.60GHz
+1,851
+	$444.78*
+AMD Phenom II N660 Dual-Core
+1,851
+	$99.00*
+Intel Pentium G6950 @ 2.80GHz
+1,843
+	$11.19
+AMD Opteron 2222
+1,843
+	$1,664.98*
+AMD Athlon II X2 255
+1,841
+	$65.77
+AMD Athlon II X2 B26
+1,840
+	$34.95*
+Intel Xeon 3075 @ 2.66GHz
+1,840
+	$349.95*
+Intel Celeron 1005M @ 1.90GHz
+1,835
+	NA
+AMD Phenom 9100e Quad-Core
+1,834
+	$39.95*
+AMD A6 Micro-6500T APU
+1,834
+	NA
+Intel Pentium 2127U @ 1.90GHz
+1,829
+	$134.00*
+Intel Pentium J2850 @ 2.41GHz
+1,826
+	NA
+Intel Xeon L5238 @ 2.66GHz
+1,823
+	NA
+Intel Core2 Duo T9500 @ 2.60GHz
+1,822
+	NA
+Intel Core i7-660UM @ 1.33GHz
+1,821
+	NA
+AMD A4-5150M APU
+1,820
+	NA
+Intel Core i3-2377M @ 1.50GHz
+1,820
+	NA
+AMD Phenom II P940 Quad-Core
+1,811
+	NA
+Intel Core2 Duo E8335 @ 2.66GHz
+1,810
+	NA
+AMD A4-4000 APU
+1,810
+	$43.00
+AMD Athlon X2 235e
+1,806
+	NA
+Intel Core2 Extreme X7800 @ 2.60GHz
+1,802
+	NA
+Intel Core2 Duo T9550 @ 2.66GHz
+1,799
+	$298.95*
+Intel Celeron J3160 @ 1.60GHz
+1,797
+	NA
+Intel Pentium N3520 @ 2.16GHz
+1,795
+	NA
+Intel Celeron N3450 @ 1.10GHz
+1,795
+	NA
+AMD Athlon 64 X2 Dual Core 6400+
+1,795
+	$79.95
+AMD Athlon 64 FX-72
+1,794
+	NA
+Intel Core i3-330M @ 2.13GHz
+1,791
+	$48.56*
+AMD Athlon II X2 B24
+1,789
+	$39.95*
+Intel Core i3-2375M @ 1.50GHz
+1,782
+	NA
+Intel Core2 Duo E7400 @ 2.80GHz
+1,777
+	$157.95
+Intel Xeon 3070 @ 2.66GHz
+1,776
+	$408.95*
+Intel Atom Z3795 @ 1.60GHz
+1,772
+	NA
+Intel Core2 Duo P9600 @ 2.53GHz
+1,772
+	$99.00*
+Intel Core2 Duo P9500 @ 2.53GHz
+1,769
+	$998.99*
+Intel Xeon W3503 @ 2.40GHz
+1,768
+	$64.99*
+Intel Core2 Duo E8135 @ 2.66GHz
+1,765
+	NA
+Intel Pentium E6500 @ 2.93GHz
+1,762
+	$157.95
+AMD Phenom II P860 Triple-Core
+1,759
+	NA
+AMD Phenom X4 Quad-Core GP-9500
+1,757
+	NA
+AMD Opteron 1222
+1,757
+	NA
+AMD Phenom X2 Dual-Core GE-7060
+1,752
+	NA
+Intel Xeon 5150 @ 2.66GHz
+1,750
+	$15.99*
+AMD Embedded G-Series GX-215JJ Radeon R2E
+1,750
+	NA
+AMD Athlon II X2 250
+1,749
+	$69.95*
+Intel Core2 Duo P8800 @ 2.66GHz
+1,748
+	$56.99*
+Intel Pentium E5700 @ 3.00GHz
+1,743
+	$13.99
+AMD Phenom II N640 Dual-Core
+1,740
+	$64.95*
+Intel Celeron N2940 @ 1.83GHz
+1,738
+	NA
+Intel Core2 Duo T9400 @ 2.53GHz
+1,737
+	$51.00*
+Intel Celeron 1037U @ 1.80GHz
+1,733
+	NA
+AMD Phenom II P840 Triple-Core
+1,731
+	NA
+Intel Celeron 3955U @ 2.00GHz
+1,728
+	NA
+Intel Core2 Duo E7300 @ 2.66GHz
+1,727
+	$21.99*
+Intel Celeron G1101 @ 2.27GHz
+1,727
+	$85.00*
+Intel Pentium B940 @ 2.00GHz
+1,725
+	$29.94*
+Intel Celeron B840 @ 1.90GHz
+1,724
+	NA
+Intel Core i3-2340UE @ 1.30GHz
+1,719
+	NA
+Intel Core2 Duo E6750 @ 2.66GHz
+1,719
+	$61.99*
+Intel Celeron 3855U @ 1.60GHz
+1,718
+	NA
+AMD Athlon 7850 Dual-Core
+1,716
+	$209.65*
+AMD Athlon II X2 B22
+1,711
+	$21.00
+Intel Pentium 3556U @ 1.70GHz
+1,710
+	NA
+Intel Pentium B950 @ 2.10GHz
+1,710
+	NA
+AMD Athlon II X2 240e
+1,708
+	$34.95*
+AMD Sempron 3850 APU
+1,704
+	$47.97
+Intel Celeron U1900 @ 1.99GHz
+1,704
+	NA
+Intel Pentium E6300 @ 2.80GHz
+1,703
+	$14.95*
+Intel Celeron 3755U @ 1.70GHz
+1,702
+	NA
+Intel Core i3-2367M @ 1.40GHz
+1,702
+	NA
+AMD Athlon II X2 245e
+1,702
+	$80.00*
+AMD Opteron 2220
+1,701
+	$1,475.16*
+Intel Pentium 3558U @ 1.70GHz
+1,700
+	NA
+AMD Phenom 8600 Triple-Core
+1,697
+	$52.99*
+AMD Phenom X2 Dual-Core GE-4060
+1,697
+	NA
+Intel Core2 Duo E6700 @ 2.66GHz
+1,696
+	$115.99
+Intel Celeron N3160 @ 1.60GHz
+1,695
+	$304.00
+Intel Core2 Duo X7360 @ 2.53GHz
+1,687
+	NA
+Intel Core2 Extreme X7900 @ 2.80GHz
+1,687
+	NA
+Intel Core i7-680UM @ 1.47GHz
+1,686
+	NA
+Intel Core i3-3229Y @ 1.40GHz
+1,686
+	NA
+Intel Atom x5-Z8500 @ 1.44GHz
+1,685
+	$62.57*
+AMD Athlon II X2 245
+1,684
+	$34.95*
+Intel Celeron 3865U @ 1.80GHz
+1,679
+	NA
+AMD Phenom II N620 Dual-Core
+1,677
+	$39.86*
+AMD A4-3420 APU
+1,677
+	NA
+AMD A4-9120
+1,677
+	NA
+AMD Athlon X2 250
+1,674
+	NA
+Intel Core2 Duo SP9400 @ 2.40GHz
+1,672
+	$284.00*
+Intel Core i7-640UM @ 1.20GHz
+1,672
+	NA
+AMD Athlon X2 240e
+1,670
+	NA
+Intel Core i3-2365M @ 1.40GHz
+1,670
+	NA
+AMD Phenom II X2 B53
+1,670
+	NA
+AMD Turion II Ultra Dual-Core Mobile M640
+1,669
+	NA
+Intel Celeron 1000M @ 1.80GHz
+1,668
+	NA
+Intel Core2 Duo T9300 @ 2.50GHz
+1,667
+	$57.99*
+AMD A6-7000
+1,666
+	NA
+Intel Core i5-560UM @ 1.33GHz
+1,664
+	NA
+Intel Celeron N3150 @ 1.60GHz
+1,662
+	NA
+Intel Celeron 3215U @ 1.70GHz
+1,657
+	NA
+AMD Athlon II X2 235e
+1,656
+	$69.41
+AMD Opteron 1220
+1,653
+	NA
+Intel Pentium 2117U @ 1.80GHz
+1,652
+	$134.00*
+AMD Athlon II X2 240
+1,644
+	$34.95
+AMD Phenom 8250 Triple-Core
+1,644
+	NA
+AMD Phenom 8400 Triple-Core
+1,643
+	NA
+AMD QC-4000
+1,642
+	NA
+Intel Celeron N2930 @ 1.83GHz
+1,642
+	NA
+Intel Xeon 5140 @ 2.33GHz
+1,639
+	$26.20
+Intel Pentium E5500 @ 2.80GHz
+1,635
+	$157.95
+Intel Core2 Duo E7200 @ 2.53GHz
+1,635
+	$157.95
+Intel Core2 Duo P8700 @ 2.53GHz
+1,635
+	$37.99*
+AMD E2-3800 APU
+1,632
+	NA
+AMD Athlon II X2 220
+1,631
+	$32.19
+AMD A6-4400M APU
+1,628
+	$39.86*
+AMD Athlon X2 255
+1,627
+	NA
+AMD Athlon II X2 4400e
+1,618
+	NA
+Intel Core2 Duo T7800 @ 2.60GHz
+1,615
+	$607.99*
+AMD A4-4300M APU
+1,615
+	$39.86*
+AMD Athlon 64 Dual Core 5400+
+1,614
+	NA
+Intel Celeron J1850 @ 1.99GHz
+1,614
+	NA
+AMD Phenom II P820 Triple-Core
+1,611
+	NA
+Intel Atom x5-E8000 @ 1.04GHz
+1,609
+	NA
+Intel Pentium A1018 @ 2.10GHz
+1,605
+	NA
+Intel Celeron G530T @ 2.00GHz
+1,604
+	NA
+AMD Athlon 64 X2 Dual Core 6000+
+1,603
+	$32.50
+AMD Phenom II P650 Dual-Core
+1,603
+	$35.00*
+AMD Phenom 8250e Triple-Core
+1,602
+	$46.99*
+Intel Xeon 5133 @ 2.20GHz
+1,598
+	NA
+AMD A4-3400 APU
+1,598
+	$55.27
+Intel Pentium E5400 @ 2.70GHz
+1,597
+	$157.95
+AMD Opteron 2218
+1,594
+	$32.42*
+Intel Xeon 5148 @ 2.33GHz
+1,590
+	$39.99*
+Intel Core2 Duo P9300 @ 2.26GHz
+1,586
+	NA
+AMD Turion II N530 Dual-Core
+1,583
+	$30.00*
+Intel Core i3-2357M @ 1.30GHz
+1,580
+	NA
+AMD Athlon II X2 215
+1,580
+	$11.99*
+AMD Athlon 7750 Dual-Core
+1,578
+	$159.76*
+AMD R-260H APU
+1,576
+	NA
+Intel Celeron 2980U @ 1.60GHz
+1,576
+	NA
+Intel Celeron 2981U @ 1.60GHz
+1,576
+	NA
+AMD Athlon X2 240
+1,575
+	NA
+AMD Athlon X2 215
+1,575
+	NA
+AMD Athlon 64 FX-62 Dual Core
+1,571
+	NA
+Intel Xeon 3085 @ 3.00GHz
+1,570
+	NA
+AMD Athlon II N370 Dual-Core
+1,559
+	NA
+Intel Core2 Duo E6600 @ 2.40GHz
+1,553
+	$157.95
+Athlon 64 Dual Core 5600+
+1,548
+	NA
+Intel Pentium E5300 @ 2.60GHz
+1,547
+	$24.95
+AMD A6 PRO-7050B APU
+1,544
+	NA
+AMD A4 Micro-6400T APU
+1,544
+	NA
+Intel Celeron 3205U @ 1.50GHz
+1,544
+	$250.73*
+Intel Celeron 1017U @ 1.60GHz
+1,539
+	NA
+Intel Core2 Duo P8600 @ 2.40GHz
+1,538
+	$49.18*
+AMD Athlon 64 X2 Dual Core 5800+
+1,536
+	$39.50
+AMD Turion II Ultra Dual-Core Mobile M660
+1,533
+	NA
+Intel Celeron B830 @ 1.80GHz
+1,531
+	NA
+AMD Sempron X2 190
+1,529
+	$83.44*
+AMD Athlon II X2 225
+1,526
+	NA
+Intel Pentium N3510 @ 1.99GHz
+1,525
+	NA
+AMD A6-1450 APU
+1,524
+	NA
+Intel Core2 Duo E8135 @ 2.40GHz
+1,523
+	NA
+AMD Turion II N550 Dual-Core
+1,521
+	NA
+Intel Core2 Duo P7550 @ 2.26GHz
+1,520
+	$229.99*
+Intel Xeon 3060 @ 2.40GHz
+1,518
+	$28.69*
+AMD Opteron 2216
+1,518
+	$178.00*
+AMD A4-3300 APU
+1,510
+	$12.99
+Intel Celeron N2920 @ 1.86GHz
+1,509
+	NA
+AMD Turion II P560 Dual-Core
+1,508
+	NA
+AMD Athlon II X2 4450e
+1,504
+	NA
+Intel Xeon 3065 @ 2.33GHz
+1,504
+	$20.90*
+Athlon 64 Dual Core 5000+
+1,497
+	NA
+Intel Core2 Duo E6550 @ 2.33GHz
+1,497
+	$12.00
+AMD Athlon 64 FX-74
+1,495
+	$499.50*
+Intel Pentium E5200 @ 2.50GHz
+1,489
+	$99.00
+AMD Athlon II X2 210e
+1,486
+	NA
+Intel Core2 Duo E4700 @ 2.60GHz
+1,482
+	$100.00*
+Intel Core2 Duo T8300 @ 2.40GHz
+1,478
+	$213.99*
+AMD Athlon 64 X2 Dual Core 5600+
+1,476
+	$149.95
+AMD A6-5345M APU
+1,476
+	NA
+Intel Atom E3845 @ 1.91GHz
+1,474
+	NA
+AMD Athlon Dual Core 4850B
+1,471
+	NA
+AMD Opteron 285
+1,470
+	NA
+AMD Opteron 1218
+1,468
+	NA
+AMD Opteron 290
+1,464
+	$135.00*
+AMD Athlon II X2 4300e
+1,464
+	NA
+Intel Core2 Duo E6540 @ 2.33GHz
+1,464
+	NA
+AMD GX-412HC
+1,462
+	NA
+Intel Pentium 997 @ 1.60GHz
+1,460
+	NA
+AMD Athlon 7550 Dual-Core
+1,459
+	$60.00*
+Intel Core2 Duo P8400 @ 2.26GHz
+1,457
+	$297.01*
+Intel Celeron 2957U @ 1.40GHz
+1,455
+	NA
+Intel Celeron E3500 @ 2.70GHz
+1,454
+	$31.00
+AMD TurionX2 Ultra DualCore Mobile ZM-85
+1,454
+	NA
+AMD Turion II P540 Dual-Core
+1,449
+	$49.96*
+AMD Athlon 64 X2 Dual Core 5400+
+1,448
+	$52.99*
+Intel Core2 Duo P7570 @ 2.26GHz
+1,444
+	NA
+AMD Opteron 1218 HE
+1,444
+	NA
+Intel Celeron 2955U @ 1.40GHz
+1,441
+	NA
+Intel Celeron E3400 @ 2.60GHz
+1,438
+	$76.47*
+AMD Phenom X2 Dual-Core GP-7730
+1,435
+	NA
+AMD E2-3200 APU
+1,435
+	NA
+AMD Athlon 7450 Dual-Core
+1,434
+	NA
+Intel Core2 Duo P7450 @ 2.13GHz
+1,425
+	$39.99*
+AMD Athlon X2 440
+1,424
+	NA
+Intel Celeron B820 @ 1.70GHz
+1,424
+	$39.29*
+AMD Turion II Ultra Dual-Core Mobile M620
+1,423
+	NA
+Intel Core2 Duo T7700 @ 2.40GHz
+1,418
+	$46.99*
+AMD Opteron 2214 HE
+1,415
+	NA
+AMD Sempron X2 198 Dual-Core
+1,413
+	NA
+Intel Core i5-540UM @ 1.20GHz
+1,410
+	NA
+AMD Athlon Dual Core 5400B
+1,407
+	NA
+AMD Turion II Ultra Dual-Core Mobile M600
+1,403
+	$27.40*
+Intel Xeon E5205 @ 1.86GHz
+1,401
+	$9.42*
+AMD Opteron 2220 SE
+1,398
+	$19.00
+Intel Celeron 1007U @ 1.50GHz
+1,397
+	$184.99*
+Intel Xeon E5503 @ 2.00GHz
+1,396
+	$287.01*
+Intel Pentium P6300 @ 2.27GHz
+1,395
+	NA
+Intel Celeron E3300 @ 2.50GHz
+1,389
+	$11.19
+Intel Celeron E3200 @ 2.40GHz
+1,386
+	$51.99*
+Intel Celeron B810 @ 1.60GHz
+1,385
+	NA
+Intel Core2 Duo E4600 @ 2.40GHz
+1,385
+	$157.95
+AMD Athlon 64 X2 Dual Core 5200+
+1,382
+	$53.09*
+Intel Xeon 5130 @ 2.00GHz
+1,378
+	$9.79*
+AMD Turion II Neo N54L Dual-Core
+1,378
+	NA
+Intel Celeron B815 @ 1.60GHz
+1,376
+	NA
+Intel Xeon E5502 @ 1.87GHz
+1,375
+	$95.00*
+Athlon 64 Dual Core 4800+
+1,370
+	NA
+Intel Core2 Duo T6600 @ 2.20GHz
+1,370
+	$18.90*
+Intel Core2 Duo T7600 @ 2.33GHz
+1,369
+	NA
+Intel Core2 Duo T6670 @ 2.20GHz
+1,365
+	NA
+AMD Athlon 64 X2 4600+
+1,365
+	$349.95*
+Intel Core2 Duo E6420 @ 2.13GHz
+1,363
+	$157.95
+VIA QuadCore L4700 @ 1.2+ GHz
+1,363
+	NA
+AMD Turion II P520 Dual-Core
+1,360
+	NA
+AMD Opteron 185
+1,360
+	NA
+AMD Opteron 2214
+1,358
+	$569.00*
+AMD Opteron 1216
+1,352
+	$54.85*
+AMD Athlon II X2 270u
+1,350
+	$67.67*
+Intel Core i5-520UM @ 1.07GHz
+1,349
+	NA
+Intel Celeron P4600 @ 2.00GHz
+1,349
+	NA
+AMD Turion X2 Ultra Dual-Core Mobile ZM-87
+1,348
+	$39.95*
+Intel Pentium P6200 @ 2.13GHz
+1,346
+	$59.99*
+AMD Athlon Dual Core 5050e
+1,345
+	$60.00*
+Intel Core i5-430UM @ 1.20GHz
+1,339
+	NA
+Intel Pentium T4500 @ 2.30GHz
+1,336
+	NA
+Intel Core2 Duo L9600 @ 2.13GHz
+1,336
+	NA
+Intel Pentium E2220 @ 2.40GHz
+1,333
+	$157.95
+Intel Core2 Extreme X7850 @ 2.80GHz
+1,331
+	NA
+Athlon Dual Core 4850e
+1,327
+	NA
+AMD Athlon Dual Core 5200B
+1,327
+	NA
+Intel Pentium P6100 @ 2.00GHz
+1,325
+	$12.00*
+Intel Core i7-620UM @ 1.07GHz
+1,323
+	NA
+AMD Athlon II P360 Dual-Core
+1,319
+	$20.00
+AMD Athlon Dual Core 4850e
+1,318
+	$39.00*
+Intel Atom x5-Z8350 @ 1.44GHz
+1,316
+	$21.00*
+Intel Xeon 3050 @ 2.13GHz
+1,311
+	$25.20*
+AMD Athlon 64 X2 Dual Core 5000+
+1,311
+	$331.49*
+AMD Opteron 1212 HE
+1,308
+	NA
+AMD Turion II Dual-Core Mobile M540
+1,307
+	NA
+AMD Turion II Dual-Core Mobile M520
+1,306
+	$69.10*
+Intel Celeron G470 @ 2.00GHz
+1,306
+	NA
+AMD Athlon Dual Core 5600B
+1,304
+	NA
+Intel Core2 Duo P7370 @ 2.00GHz
+1,301
+	NA
+AMD Opteron 1214 HE
+1,299
+	NA
+AMD A4-3310MX APU
+1,299
+	NA
+Intel Core2 Duo P7350 @ 2.00GHz
+1,298
+	$19.99*
+AMD Turion II Dual-Core Mobile M500
+1,298
+	NA
+Intel Celeron 887 @ 1.50GHz
+1,297
+	NA
+AMD Turion X2 Ultra Dual-Core Mobile ZM-86
+1,297
+	$55.00
+AMD Athlon Dual Core 5000B
+1,296
+	$95.00*
+Intel Core2 Duo E6400 @ 2.13GHz
+1,295
+	$157.95
+AMD E2-9000e
+1,294
+	NA
+AMD Opteron 275
+1,291
+	$109.95
+Intel Core2 Duo T8100 @ 2.10GHz
+1,290
+	$999.99*
+Intel Celeron 877 @ 1.40GHz
+1,290
+	NA
+AMD Athlon 5000 Dual-Core
+1,290
+	$99.95*
+Intel Celeron J3355 @ 2.00GHz
+1,289
+	NA
+Intel Celeron B800 @ 1.50GHz
+1,286
+	NA
+Intel Core2 Duo T6500 @ 2.10GHz
+1,286
+	$14.99*
+AMD Athlon 64 X2 4200+
+1,285
+	$308.95*
+Intel Xeon 3040 @ 1.86GHz
+1,284
+	$25.04*
+AMD Athlon 64 FX-60 Dual Core
+1,284
+	NA
+Intel Pentium T4400 @ 2.20GHz
+1,282
+	NA
+Celeron Dual-Core T3500 @ 2.10GHz
+1,281
+	NA
+AMD A6-4455M APU
+1,280
+	NA
+Intel Atom Z3775D @ 1.49GHz
+1,278
+	NA
+Intel Core2 Duo E4500 @ 2.20GHz
+1,275
+	$157.95
+Intel Core2 Duo T7500 @ 2.20GHz
+1,275
+	$42.99*
+AMD Opteron 280
+1,272
+	$796.67*
+Intel Core i5-4400E @ 2.70GHz
+1,271
+	NA
+AMD Opteron 2212
+1,270
+	$12.00
+Intel Core i5-470UM @ 1.33GHz
+1,270
+	NA
+Intel Core2 Duo SL9400 @ 1.86GHz
+1,267
+	$253.00*
+Intel Pentium 3560Y @ 1.20GHz
+1,266
+	NA
+Intel Celeron E1600 @ 2.40GHz
+1,260
+	NA
+Intel Core2 Duo T6570 @ 2.10GHz
+1,260
+	$38.50*
+AMD Athlon 64 X2 Dual Core 4800+
+1,259
+	$159.95*
+AMD GX-222GC SOC
+1,255
+	NA
+Intel Pentium P6000 @ 1.87GHz
+1,253
+	NA
+Intel Atom Z3775 @ 1.46GHz
+1,252
+	$35.00*
+AMD Athlon X2 Dual Core BE-2450
+1,251
+	NA
+AMD Athlon II P340 Dual-Core
+1,251
+	$49.95*
+Intel Xeon 5120 @ 1.86GHz
+1,249
+	$1,635.28
+AMD Athlon II N350 Dual-Core
+1,247
+	NA
+AMD A4-3320M APU
+1,247
+	$31.00*
+Intel Core2 Duo T7400 @ 2.16GHz
+1,244
+	NA
+Intel Atom Z3770 @ 1.46GHz
+1,241
+	$149.44*
+Intel Pentium T4300 @ 2.10GHz
+1,239
+	NA
+AMD Athlon 5200 Dual-Core
+1,236
+	$90.33*
+AMD Athlon X2 Dual Core BE-2400
+1,236
+	NA
+Athlon 64 Dual Core 3800+
+1,234
+	NA
+AMD Turion X2 Ultra Dual-Core Mobile ZM-85
+1,232
+	NA
+AMD Turion X2 Dual-Core Mobile RM-77
+1,230
+	NA
+AMD Opteron 180
+1,228
+	$129.95*
+Intel Core2 Duo T6400 @ 2.00GHz
+1,224
+	$14.99*
+Intel Pentium 987 @ 1.50GHz
+1,223
+	NA
+AMD A4-3305M APU
+1,223
+	$30.00*
+AMD Sempron X2 180
+1,222
+	$69.40*
+AMD Athlon 64 X2 Dual Core 4600+
+1,222
+	$359.95*
+AMD A4-3330MX APU
+1,217
+	NA
+AMD Athlon II P320 Dual-Core
+1,216
+	$19.95*
+AMD Turion X2 Ultra Dual-Core Mobile ZM-84
+1,212
+	$12.84
+Intel Core2 Duo T5900 @ 2.20GHz
+1,212
+	NA
+AMD Phenom X4 Quad-Core GS-5560
+1,211
+	NA
+Celeron Dual-Core T3300 @ 2.00GHz
+1,208
+	NA
+Dual-Core AMD Opteron 1220 SE
+1,206
+	NA
+Intel Celeron N2910 @ 1.60GHz
+1,205
+	NA
+Intel Pentium E2200 @ 2.20GHz
+1,205
+	$157.95
+Intel Atom x5-Z8300 @ 1.44GHz
+1,200
+	$132.99*
+Intel Celeron 867 @ 1.30GHz
+1,199
+	NA
+Intel Core2 Duo T7300 @ 2.00GHz
+1,194
+	$30.99*
+Intel Core2 Duo E6320 @ 1.86GHz
+1,193
+	$157.95
+AMD Opteron 1214
+1,191
+	$290.00*
+Intel Core2 Duo T5850 @ 2.16GHz
+1,188
+	$15.90*
+Intel Celeron 1047UE @ 1.40GHz
+1,188
+	NA
+AMD Turion II Neo K685 Dual-Core
+1,186
+	NA
+AMD A4-3300M APU
+1,182
+	$29.99*
+Celeron Dual-Core T3100 @ 1.90GHz
+1,180
+	NA
+AMD Phenom X2 Dual-Core GP-5000
+1,180
+	NA
+Intel Pentium E2210 @ 2.20GHz
+1,174
+	NA
+VIA QuadCore U4650 @ 1.0+ GHz
+1,173
+	NA
+AMD Opteron 1216 HE
+1,172
+	NA
+Intel Celeron 857 @ 1.20GHz
+1,172
+	NA
+AMD Athlon Dual Core 4450B
+1,170
+	$17.00*
+Intel Core i3-380UM @ 1.33GHz
+1,169
+	NA
+Intel Core2 Duo T7200 @ 2.00GHz
+1,167
+	$99.95
+AMD Opteron 175
+1,167
+	NA
+AMD A4-4355M APU
+1,163
+	NA
+Intel Atom E3840 @ 1.91GHz
+1,162
+	NA
+Intel Core2 Duo E4400 @ 2.00GHz
+1,159
+	$157.95
+Athlon 64 Dual Core 4200+
+1,156
+	NA
+Intel Celeron E1500 @ 2.20GHz
+1,155
+	$63.25*
+AMD Athlon II N330 Dual-Core
+1,154
+	NA
+Intel Pentium 967 @ 1.30GHz
+1,153
+	NA
+Intel Celeron P4500 @ 1.87GHz
+1,152
+	NA
+AMD Turion 64 X2 Mobile TL-68
+1,149
+	$90.00*
+AMD Turion X2 Dual-Core Mobile RM-75
+1,148
+	NA
+Intel Pentium T4200 @ 2.00GHz
+1,148
+	$12.00*
+Intel Pentium 977 @ 1.40GHz
+1,148
+	NA
+Intel Core2 Duo T5870 @ 2.00GHz
+1,147
+	NA
+VIA Eden X4 C4250 @ 1.2+GHz
+1,147
+	NA
+AMD Athlon 64 X2 Dual Core 4400+
+1,145
+	$60.00*
+AMD Athlon II Dual-Core M320
+1,142
+	$30.00*
+Intel Core2 Duo U9600 @ 1.60GHz
+1,132
+	NA
+Intel Celeron N3350 @ 1.10GHz
+1,121
+	NA
+Intel Core2 Duo L7800 @ 2.00GHz
+1,116
+	NA
+AMD GX-218GL SOC
+1,115
+	NA
+AMD Athlon II Dual-Core M300
+1,114
+	NA
+Intel Pentium T3400 @ 2.16GHz
+1,113
+	$14.00
+AMD Turion 64 X2 Mobile TL-66
+1,112
+	$378.00*
+AMD TurionX2 Dual Core Mobile RM-72
+1,112
+	NA
+Intel Core2 Duo E6300 @ 1.86GHz
+1,111
+	$157.95
+Intel Core2 Duo T5800 @ 2.00GHz
+1,111
+	NA
+Intel Celeron 2961Y @ 1.10GHz
+1,110
+	NA
+Intel Core2 Duo T7250 @ 2.00GHz
+1,109
+	$201.48*
+AMD Turion 64 X2 Mobile TL-64
+1,109
+	$39.39*
+AMD Athlon64 X2 Dual Core 4600+
+1,108
+	NA
+AMD GX-217GA SOC
+1,106
+	NA
+AMD Athlon II X2 260u
+1,106
+	$83.44*
+AMD Athlon Dual Core 4450e
+1,104
+	NA
+AMD Athlon 64 X2 Dual Core 4200+
+1,099
+	$129.95*
+AMD Athlon X2 Dual Core BE-2350
+1,098
+	NA
+AMD Opteron 170
+1,097
+	NA
+Intel Pentium 957 @ 1.20GHz
+1,095
+	$134.00*
+AMD Athlon 64 X2 Dual Core BE-230
+1,095
+	NA
+AMD Turion 64 X2 Mobile TL-62
+1,093
+	$311.00*
+AMD E2-3000M APU
+1,093
+	$20.00*
+Intel Core2 Duo T5750 @ 2.00GHz
+1,091
+	$9.99*
+Intel Pentium E2180 @ 2.00GHz
+1,087
+	$26.20
+AMD Athlon Dual Core 4050e
+1,086
+	NA
+Intel Celeron Dual-Core T3000 @ 1.80GHz 	
+1,084
+	NA
+AMD Opteron 270
+1,083
+	$607.47*
+AMD Athlon 64 X2 Dual Core BE-2300
+1,082
+	NA
+AMD Sempron Dual Core 4900
+1,081
+	NA
+Athlon Dual Core 4450e
+1,081
+	NA
+AMD E2-3000 APU
+1,080
+	NA
+Intel Xeon 5110 @ 1.60GHz
+1,079
+	$9.79*
+AMD Turion X2 Dual-Core Mobile RM-72
+1,079
+	$224.26*
+AMD Turion X2 Ultra Dual-Core Mobile ZM-82
+1,071
+	NA
+Intel Core i3-330UM @ 1.20GHz
+1,071
+	NA
+Intel Atom Z3745 @ 1.33GHz
+1,071
+	NA
+Intel Core2 Duo L9300 @ 1.60GHz
+1,069
+	NA
+Intel Celeron G465 @ 1.90GHz
+1,065
+	$80.00
+Intel Atom Z3740 @ 1.33GHz
+1,062
+	NA
+Intel Celeron T1700 @ 1.83GHz
+1,058
+	$59.95*
+Intel Atom Z3745D @ 1.33GHz
+1,058
+	NA
+AMD Turion X2 Dual-Core Mobile RM-74
+1,055
+	$24.95*
+Intel Core2 Duo E4300 @ 1.80GHz
+1,047
+	$157.95
+Intel Core2 Duo T5550 @ 1.83GHz
+1,046
+	NA
+Intel Pentium 2129Y @ 1.10GHz
+1,044
+	$134.00*
+AMD Athlon 64 X2 Dual Core BE-2350
+1,044
+	NA
+AMD Athlon 64 X2 Dual Core 4000+
+1,041
+	NA
+Intel Xeon 3.73GHz
+1,041
+	NA
+AMD Athlon 64 X2 QL-65
+1,041
+	NA
+AMD Turion X2 Dual Core Mobile RM-76
+1,041
+	NA
+Intel Celeron J1750 @ 2.41GHz
+1,037
+	NA
+Intel Celeron E1400 @ 2.00GHz
+1,035
+	$79.95
+Intel Celeron J1800 @ 2.41GHz
+1,032
+	NA
+AMD Athlon II Dual-Core M340
+1,032
+	NA
+Intel Celeron G460 @ 1.80GHz
+1,028
+	$19.59
+Intel Pentium T3200 @ 2.00GHz
+1,027
+	$12.00*
+Intel Core2 Duo T5600 @ 1.83GHz
+1,027
+	NA
+Intel Celeron 847E @ 1.10GHz
+1,026
+	NA
+Intel Core Duo T2700 @ 2.33GHz
+1,024
+	NA
+Intel 1500 @ 2.00GHz
+1,024
+	NA
+Intel Core2 Duo P7700 @ 1.80GHz
+1,021
+	NA
+Intel Atom Z3740D @ 1.33GHz
+1,020
+	NA
+AMD Athlon 64 X2 QL-62
+1,017
+	NA
+AMD Turion Dual-Core RM-74
+1,016
+	NA
+AMD Opteron 1212
+1,015
+	$290.00*
+Intel Atom x5-Z8330 @ 1.44GHz
+1,012
+	NA
+AMD Turion X2 Ultra Dual-Core Mobile ZM-80
+1,011
+	$13.00*
+Intel Celeron N2840 @ 2.16GHz
+1,011
+	NA
+Intel Core2 Duo T7100 @ 1.80GHz
+1,009
+	$21.99*
+AMD Athlon X2 Dual Core LS-5800
+1,009
+	NA
+AMD Athlon 64 X2 QL-67
+1,006
+	NA
+AMD Athlon64 X2 Dual Core 4200+
+1,006
+	NA
+Intel Core2 Duo T5670 @ 1.80GHz
+1,003
+	NA
+AMD Athlon 64 X2 Dual Core 3400+
+1,003
+	NA
+AMD Athlon 64 X2 Dual Core 3800+
+1,002
+	NA
+AMD Athlon Neo X2 Dual Core 6850e
+1,002
+	NA
+AMD Athlon II X2 250u
+999
+	$39.95*
+AMD Athlon X2 Dual Core 6850e
+998
+	NA
+Intel Pentium E2160 @ 1.80GHz
+998
+	$40.00
+AMD Athlon64 X2 Dual Core 3800+
+997
+	NA
+Intel Pentium T2410 @ 2.00GHz
+996
+	NA
+AMD Sempron Dual Core 2200
+995
+	NA
+Intel Celeron N3060 @ 1.60GHz
+995
+	NA
+Intel Celeron P4505 @ 1.87GHz
+994
+	NA
+AMD E1-7010 APU
+994
+	NA
+AMD TurionX2 Dual Core Mobile RM-70
+988
+	NA
+AMD Athlon 64 X2 TK-57
+988
+	NA
+AMD Turion 64 X2 Mobile TL-60
+986
+	$18.05*
+AMD Turion X2 Dual-Core Mobile RM-70
+986
+	NA
+AMD Athlon 64 X2 QL-64
+983
+	NA
+AMD Sempron Dual Core 2300
+982
+	$41.99*
+AMD Athlon X2 Dual Core BE-2300
+981
+	NA
+Intel 1400 @ 1.83GHz
+980
+	NA
+Intel Pentium U5600 @ 1.33GHz
+977
+	NA
+AMD Turion II Neo K625 Dual-Core
+973
+	NA
+AMD Athlon 64 X2 Dual Core 3600+
+971
+	$60.00*
+AMD Opteron 1210 HE
+971
+	NA
+AMD Athlon 64 X2 Dual Core TK-57
+971
+	NA
+Intel Celeron J3060 @ 1.60GHz
+969
+	NA
+Intel Pentium Extreme Edition 965 @ 3.73GHz
+969
+	NA
+Athlon Dual Core 4050e
+968
+	NA
+Intel Core2 Duo L7500 @ 1.60GHz
+966
+	NA
+Intel T1500 @ 1.86GHz
+965
+	NA
+Intel Celeron @ 1.30GHz
+965
+	NA
+Intel Core2 Duo L7700 @ 1.80GHz
+965
+	NA
+AMD Opteron 256
+963
+	NA
+AMD Opteron 265
+963
+	$159.95*
+Intel Celeron N3010 @ 1.04GHz
+962
+	NA
+AMD Turion Dual-Core RM-75
+961
+	$22.95
+Intel Atom C2358 @ 1.74GHz
+961
+	NA
+AMD E1 Micro-6200T APU
+960
+	NA
+Intel T2050 @ 2.00GHz
+959
+	NA
+AMD Athlon 64 X2 3800+
+958
+	NA
+AMD Athlon 64 X2 TK-55
+955
+	NA
+Intel Celeron N2820 @ 2.13GHz
+952
+	$190.00
+Intel Celeron N2830 @ 2.16GHz
+951
+	NA
+AMD Sempron Dual Core 4700
+948
+	NA
+Intel Core2 Duo P7500 @ 1.60GHz
+945
+	NA
+AMD Athlon 64 X2 QL-66
+945
+	NA
+Intel Celeron T1600 @ 1.66GHz
+945
+	$19.99*
+AMD Turion 64 X2 Mobile TL-58
+944
+	NA
+Intel Celeron 1019Y @ 1.00GHz
+941
+	NA
+Intel Core Duo T2600 @ 2.16GHz
+941
+	NA
+Intel Pentium T2390 @ 1.86GHz
+940
+	NA
+Intel Celeron 847 @ 1.10GHz
+940
+	$315.00*
+AMD Turion X2 Dual Core Mobile RM-70
+939
+	$132.56*
+Intel Core2 Duo SU9400 @ 1.40GHz
+937
+	NA
+Intel Core2 Duo T5300 @ 1.73GHz
+936
+	NA
+AMD Sempron 2650 APU
+935
+	$39.71
+Intel Celeron N2808 @ 1.58GHz
+929
+	NA
+AMD Athlon 64 X2 QL-60
+928
+	NA
+Intel Atom Z3735E @ 1.33GHz
+927
+	$117.00*
+AMD Sempron Dual Core 2100
+924
+	$39.00*
+AMD Opteron 1210
+923
+	NA
+Intel Core2 Duo T5500 @ 1.66GHz
+922
+	NA
+AMD Athlon 64 X2 Dual-Core TK-57
+921
+	NA
+Intel Atom Z3736F @ 1.33GHz
+920
+	NA
+Intel T1400 @ 1.73GHz
+917
+	NA
+Intel Atom S1260 @ 2.00GHz
+916
+	$64.00*
+AMD Turion II Neo N40L Dual-Core
+916
+	NA
+Intel Atom Z3735D @ 1.33GHz
+914
+	NA
+Intel Atom Z3735G @ 1.33GHz
+909
+	NA
+Intel Core2 Duo T5470 @ 1.60GHz
+909
+	NA
+Intel Atom Z3735F @ 1.33GHz
+908
+	$181.30*
+Intel Core2 Duo T5450 @ 1.66GHz
+907
+	NA
+Intel Celeron N3000 @ 1.04GHz
+907
+	NA
+Intel Pentium Extreme Edition 955 @ 3.46GHz
+905
+	$759.00*
+AMD Opteron 165
+899
+	$53.99*
+Intel Atom C2338 @ 1.74GHz
+898
+	NA
+AMD Turion Dual-Core RM-70
+895
+	$15.00*
+AMD E1-6015 APU
+889
+	NA
+AMD E1-2500 APU
+887
+	NA
+Intel Celeron N3050 @ 1.60GHz
+882
+	$279.99
+AMD Turion 64 X2 Mobile TL-56
+882
+	$20.00*
+AMD Athlon 64 X2 Dual-Core TK-55
+880
+	$72.74*
+AMD Athlon 64 X2 Dual-Core TK-42
+877
+	NA
+Intel Core Duo T2500 @ 2.00GHz
+875
+	$119.99*
+Intel Core2 Duo U7300 @ 1.30GHz
+872
+	NA
+AMD Turion X2 Dual Core L510
+871
+	NA
+Intel Pentium E2140 @ 1.60GHz
+871
+	$26.70
+Intel Pentium SU4100 @ 1.30GHz
+863
+	NA
+Intel Celeron E1200 @ 1.60GHz
+861
+	$39.99
+AMD Turion Dual-Core RM-72
+860
+	$38.00*
+Intel Celeron N2815 @ 1.86GHz
+859
+	NA
+Intel 1300 @ 1.66GHz
+857
+	NA
+Intel Core2 Duo U9300 @ 1.20GHz
+857
+	NA
+AMD Athlon II Neo K345 Dual-Core
+856
+	NA
+Intel Celeron N2807 @ 1.58GHz
+854
+	NA
+AMD E1-6010 APU
+850
+	NA
+Intel Atom E3827 @ 1.74GHz
+849
+	NA
+Intel Pentium T2370 @ 1.73GHz
+847
+	$35.00
+Intel Core2 Duo L7400 @ 1.50GHz
+846
+	NA
+Intel Atom D2700 @ 2.13GHz
+844
+	NA
+Intel Pentium T1080 @ 1.73GHz
+842
+	NA
+Intel Core2 Duo L7300 @ 1.40GHz
+841
+	NA
+AMD Athlon 64 X2 Dual Core TK-53
+839
+	$34.95*
+AMD Athlon 64 X2 Dual Core TK-55
+839
+	$57.74*
+Intel Pentium U5400 @ 1.20GHz
+838
+	NA
+Intel Pentium T2330 @ 1.60GHz
+835
+	NA
+Intel Core2 Duo T5200 @ 1.60GHz
+835
+	NA
+Intel Core Duo T2450 @ 2.00GHz
+832
+	NA
+Intel Core2 Duo T5250 @ 1.50GHz
+829
+	NA
+AMD E2-2000 APU
+823
+	NA
+Intel Pentium D 960 @ 3.60GHz
+823
+	NA
+AMD E2-1800 APU
+820
+	NA
+Intel Core2 Duo T5270 @ 1.40GHz
+820
+	NA
+AMD Athlon II Neo N36L Dual-Core
+817
+	NA
+AMD Athlon Neo X2 Dual Core L335
+816
+	NA
+AMD Turion Neo X2 Dual Core L625
+815
+	NA
+Intel Celeron B720 @ 1.70GHz
+814
+	NA
+AMD Athlon 64 X2 Dual-Core TK-53
+812
+	NA
+Intel Atom x5-E3930 @ 1.30GHz
+811
+	NA
+AMD Sempron 145
+810
+	$94.92
+Intel Celeron U3600 @ 1.20GHz
+805
+	NA
+Intel Atom Z3770D @ 1.49GHz
+805
+	NA
+Intel Core Duo T2400 @ 1.83GHz
+795
+	$16.00*
+AMD Athlon 64 FX-25
+794
+	NA
+AMD G-T56N
+783
+	NA
+Intel Celeron N2806 @ 1.60GHz
+782
+	NA
+AMD Athlon II Neo K325 Dual-Core
+781
+	$25.99*
+AMD Athlon Neo X2 Dual Core L325
+776
+	NA
+Intel Celeron SU2300 @ 1.20GHz
+776
+	NA
+AMD Athlon X2 Dual Core 3250e
+775
+	NA
+AMD E-350 APU
+775
+	NA
+Intel Celeron N2810 @ 2.00GHz
+774
+	$186.99
+AMD E-450 APU
+769
+	NA
+AMD E1-2200 APU
+767
+	NA
+Intel Core Duo T2350 @ 1.86GHz
+764
+	NA
+AMD Turion 64 X2 Mobile TL-52
+762
+	NA
+Intel Core Duo T2250 @ 1.73GHz
+761
+	NA
+AMD Opteron 252
+760
+	$63.36*
+AMD Sempron LE-1640
+759
+	NA
+AMD G-T56E
+751
+	NA
+Intel Celeron 807 @ 1.50GHz
+751
+	NA
+AMD Turion 64 X2 Mobile TL-50
+750
+	$49.99*
+AMD E-350
+746
+	NA
+AMD GX-212JC SOC
+744
+	NA
+Intel Pentium D 950 @ 3.40GHz
+742
+	NA
+AMD Sempron 140
+739
+	$39.59*
+Intel Core Duo T2300 @ 1.66GHz
+732
+	NA
+AMD Athlon 64 FX-57
+730
+	NA
+Intel Core Duo L2500 @ 1.83GHz
+728
+	NA
+Intel Core2 Duo L7100 @ 1.20GHz
+727
+	NA
+Intel Celeron U3400 @ 1.07GHz
+727
+	NA
+AMD E-350D APU
+724
+	NA
+Intel Pentium T2310 @ 1.46GHz
+723
+	NA
+AMD Athlon 64 FX-55
+721
+	$179.95
+Intel Atom D2701 @ 2.13GHz
+720
+	NA
+Intel Core Duo L2300 @ 1.50GHz
+719
+	NA
+AMD G-T48E
+716
+	NA
+AMD Athlon 64 FX-59
+715
+	NA
+Intel Core2 Duo U7700 @ 1.33GHz
+713
+	NA
+Intel Atom D2560 @ 2.00GHz
+711
+	NA
+Intel Pentium D 940 @ 3.20GHz
+711
+	NA
+Intel Pentium T2080 @ 1.73GHz
+710
+	$159.95*
+Intel Pentium T2130 @ 1.86GHz
+710
+	NA
+Intel Core Duo L2400 @ 1.66GHz
+708
+	NA
+Intel Pentium 5 2.66GHz
+705
+	NA
+Intel Atom D525 @ 1.80GHz
+704
+	NA
+AMD Opteron 154
+703
+	NA
+AMD Sempron 150
+701
+	$44.95
+Intel Core Duo T2050 @ 1.60GHz
+698
+	NA
+Intel Celeron G440 @ 1.60GHz
+698
+	$125.00
+Intel Celeron 925 @ 2.30GHz
+697
+	NA
+AMD Opteron 254
+693
+	NA
+AMD E1-1500 APU
+685
+	NA
+Intel Celeron U3405 @ 1.07GHz
+684
+	NA
+Intel Core2 Duo L7200 @ 1.33GHz
+684
+	NA
+Intel Xeon MV 3.20GHz
+683
+	NA
+AMD V160
+680
+	NA
+AMD Athlon 1640B
+678
+	$50.00*
+Intel Celeron 900 @ 2.20GHz
+677
+	$28.99
+AMD Athlon LE-1660
+676
+	NA
+Intel Pentium T2060 @ 1.60GHz
+672
+	NA
+Intel Atom D2550 @ 1.86GHz
+672
+	NA
+Intel Core2 Duo U7600 @ 1.20GHz
+663
+	NA
+AMD E1-1200 APU
+663
+	NA
+AMD Opteron 152
+658
+	NA
+Intel Atom K510 @ 1.66GHz
+658
+	NA
+AMD Sempron 130
+656
+	$24.99*
+Intel Atom D510 @ 1.66GHz
+654
+	$97.16*
+AMD Opteron 250
+649
+	$11.00
+AMD Athlon 64 FX-53
+646
+	$29.99*
+VIA Nano L3600@2000MHz
+645
+	NA
+Intel Pentium D 830 @ 3.00GHz
+644
+	NA
+Intel Core 330 @ 1.60GHz
+643
+	NA
+AMD Athlon X2 Dual Core L310
+641
+	NA
+AMD V140
+641
+	$13.00*
+AMD A4-1200 APU
+640
+	NA
+AMD Sempron LE-1620
+635
+	NA
+AMD Opteron 246
+632
+	$49.99
+AMD V120
+631
+	NA
+AMD E1-2100 APU
+629
+	NA
+AMD Athlon LE-1640
+626
+	NA
+AMD Athlon II 170u
+626
+	$29.95*
+Intel Celeron 450 @ 2.20GHz
+624
+	NA
+Intel Atom N2800 @ 1.86GHz
+619
+	NA
+AMD Turion 64 Mobile ML-42
+615
+	NA
+Intel Celeron 827E @ 1.40GHz
+613
+	NA
+AMD E-300 APU
+613
+	NA
+AMD Sempron LE-1300
+612
+	$12.00
+AMD A4-1250 APU
+610
+	NA
+AMD Athlon 64 4000+
+606
+	$79.99*
+VIA Nano X2 U4025 @ 1.2 GHz
+605
+	NA
+AMD Opteron 150
+604
+	NA
+Intel Xeon 3.80GHz
+604
+	$851.00*
+AMD Opteron 148
+603
+	NA
+AMD Athlon 64 3600+
+601
+	NA
+AMD Athlon 64 3700+
+599
+	$69.00*
+Intel Atom 330 @ 1.60GHz
+591
+	NA
+AMD Turion 64 Mobile ML-44
+591
+	NA
+Intel Core2 Duo Q6867 @ 3.00GHz
+589
+	NA
+AMD Athlon 64 3800+
+587
+	$139.95
+Intel Celeron D 430 @ 1.80GHz
+585
+	NA
+Intel Pentium D 915 @ 2.80GHz
+584
+	NA
+Intel Core2 Duo U7500 @ 1.06GHz
+582
+	NA
+VIA Nano L3050@1800MHz
+581
+	NA
+Mobile AMD Athlon 64 4000+
+576
+	NA
+AMD Athlon 64 3300+
+576
+	NA
+AMD Athlon 64 2200+
+575
+	NA
+Intel Atom N570 @ 1.66GHz
+575
+	$86.00*
+AMD Sempron M120
+574
+	NA
+Mobile AMD Athlon XP
+572
+	$11.79*
+AMD Athlon LE-1620
+571
+	$18.00*
+AMD Athlon XP 3400+
+570
+	NA
+Intel Atom Z2760 @ 1.80GHz
+570
+	NA
+AMD C-70 APU
+569
+	NA
+Intel Atom E3825 @ 1.33GHz
+564
+	$70.32*
+AMD Athlon LE-1600
+561
+	$21.00*
+AMD Sempron 3800+
+554
+	$21.00
+AMD Sempron M100
+553
+	$12.00
+AMD Athlon II 160u
+553
+	$29.99*
+AMD Athlon 64 3400+
+547
+	NA
+Intel Core Duo U2400 @ 1.06GHz
+544
+	NA
+AMD Athlon II Neo K145
+543
+	NA
+AMD C-60 APU
+543
+	NA
+Intel Celeron M 540 @ 1.86GHz
+542
+	NA
+AMD Athlon XP-M
+541
+	$34.95
+AMD Athlon 64 3500+
+540
+	$59.00*
+AMD Sempron LE-1250
+539
+	$28.99*
+Intel Celeron 440 @ 2.00GHz
+537
+	$74.99
+AMD Turion 64 Mobile MT-40
+536
+	NA
+Intel Celeron 560 @ 2.13GHz
+535
+	$79.95
+AMD Sempron LE-1600
+535
+	NA
+Intel Pentium D 805 @ 2.66GHz
+534
+	NA
+AMD Opteron 146
+532
+	$59.99*
+Intel Celeron 570 @ 2.26GHz
+526
+	NA
+Intel Atom N2600 @ 1.60GHz
+526
+	NA
+AMD Sempron LE-1200
+526
+	NA
+AMD Z-01
+523
+	NA
+Intel Atom N550 @ 1.50GHz
+522
+	$86.00*
+AMD Turion 64 Mobile ML-40
+520
+	NA
+Intel Core Duo U2500 @ 1.20GHz
+517
+	NA
+Mobile AMD Sempron 3800+
+517
+	NA
+VIA Nano L3025@1600MHz
+517
+	NA
+AMD G-T40N
+516
+	NA
+Mobile AMD Athlon XP-M
+512
+	NA
+AMD Turion 64 Mobile MK-38
+512
+	NA
+Mobile AMD Athlon 64 3400+
+511
+	NA
+AMD Opteron 144
+511
+	$65.00*
+Intel Celeron 540 @ 1.86GHz
+511
+	NA
+Intel Pentium M 2.13GHz
+509
+	NA
+Intel Pentium M 2.26GHz
+509
+	NA
+Mobile AMD Athlon XP-M (LV)
+508
+	NA
+Mobile AMD Athlon XP-M (LV) 3200+
+505
+	NA
+VIA Nano U3100 (1.6GHz Capable)
+501
+	NA
+Intel Xeon 3.60GHz
+500
+	$851.00*
+AMD Athlon 2850e
+498
+	NA
+Intel Celeron 550 @ 2.00GHz
+498
+	$13.00*
+AMD Athlon MP 2800+
+497
+	NA
+Mobile AMD Athlon MP-M 2800+
+496
+	NA
+Intel Celeron 430 @ 1.80GHz
+492
+	$79.95
+Intel Xeon 3.06GHz
+491
+	NA
+AMD Athlon 64 3200+
+491
+	$149.95*
+Intel Pentium 4 3.60GHz
+491
+	NA
+AMD Sempron LE-250
+490
+	NA
+AMD Sempron 3600+
+489
+	$12.00
+Intel Atom E3826 @ 1.46GHz
+489
+	NA
+Intel Pentium 4 3.46GHz
+487
+	NA
+Mobile AMD Athlon XP-M 3200+
+487
+	NA
+Intel Pentium 4 3.73GHz
+486
+	NA
+AMD G-T40E
+485
+	NA
+AMD Z-60 APU
+485
+	NA
+Intel Pentium 4 3.80GHz
+485
+	NA
+AMD Athlon 3100+
+485
+	NA
+AMD Turion 64 Mobile MT-37
+484
+	NA
+AMD Sempron 3300+
+484
+	$30.00
+Intel Pentium M 756 @ 1.66GHz
+484
+	NA
+Intel Celeron D 420 @ 1.60GHz
+481
+	NA
+VIA Eden X2 U4200 @ 1.0+ GHz
+480
+	NA
+Intel Xeon 3.40GHz
+478
+	NA
+Mobile Intel Pentium 4 3.46GHz
+478
+	NA
+AMD Opteron 248
+476
+	$12.00
+Mobile AMD Athlon XP-M (LV) 2800+
+475
+	NA
+AMD Athlon II Neo K125
+474
+	NA
+AMD Athlon QI-46
+473
+	NA
+Intel Core Solo T1400 @ 1.83GHz
+472
+	NA
+Intel Celeron 530 @ 1.73GHz
+468
+	$23.00*
+AMD Turion 64 Mobile MK-36
+466
+	NA
+Intel Core2 Solo U3500 @ 1.40GHz
+466
+	NA
+Intel Pentium M 2.00GHz
+465
+	NA
+AMD Athlon XP 2300+
+464
+	NA
+AMD C-50
+463
+	NA
+AMD Athlon 2400+
+462
+	NA
+Intel Xeon 3.20GHz
+461
+	NA
+AMD Athlon 64 3000+
+461
+	$84.95*
+AMD Athlon XP 2900+
+459
+	NA
+Intel Celeron M 530 @ 1.73GHz
+459
+	NA
+AMD Athlon 3200+
+458
+	$76.25*
+Intel Celeron N2805 @ 1.46GHz
+457
+	NA
+VIA Nano L1900@1400MHz
+457
+	NA
+Intel Celeron M 723 @ 1.20GHz
+457
+	NA
+AMD Sempron SI-42
+456
+	$12.00
+Intel Celeron M 450 @ 2.00GHz
+455
+	NA
+AMD Sempron 3400+
+455
+	$14.00
+Intel Celeron 420 @ 1.60GHz
+452
+	$34.78*
+AMD Sempron 3100+
+452
+	$60.00*
+Mobile AMD Athlon 64 3000+
+450
+	NA
+AMD C-60
+448
+	NA
+Intel Pentium M 2.10GHz
+448
+	NA
+Mobile AMD Athlon 64 3200+
+448
+	NA
+AMD Athlon 2800+
+447
+	$49.99*
+AMD Turion 64 Mobile ML-37
+447
+	$196.50*
+Mobile AMD Sempron 3300+
+444
+	NA
+AMD Athlon 2600+
+444
+	$104.95*
+Mobile AMD Sempron 3400+
+443
+	NA
+AMD Sempron SI-40
+443
+	$12.00
+Mobile AMD Athlon 64 2800+
+440
+	NA
+Mobile AMD Athlon XP-M 3100+
+440
+	NA
+Mobile Intel Pentium 4 3.33GHz
+439
+	NA
+AMD Athlon 64 2800+
+438
+	$99.99*
+Intel Pentium M 1.86GHz
+437
+	NA
+AMD Athlon 64 FX-51
+437
+	NA
+AMD Athlon MP 2400+
+436
+	NA
+AMD Sempron LE-1100
+436
+	NA
+Intel Xeon 2.66GHz
+435
+	NA
+Intel T1200 @ 1.50GHz
+435
+	NA
+Mobile AMD Athlon 64 3700+
+435
+	NA
+AMD Sempron LE-1150
+434
+	NA
+Intel Celeron M 520 @ 1.60GHz
+434
+	NA
+AMD Athlon XP 3100+
+433
+	NA
+Intel Celeron 743 @ 1.30GHz
+433
+	NA
+AMD Athlon XP 3200+
+432
+	NA
+Mobile AMD Sempron 3600+
+429
+	NA
+AMD Turion 64 Mobile MT-34
+429
+	NA
+VIA Nano L2100@1800MHz
+428
+	NA
+AMD Opteron 142
+428
+	NA
+AMD Turion 64 Mobile MT-32
+426
+	NA
+AMD Turion 64 Mobile ML-34
+425
+	NA
+AMD Turion 64 Mobile MT-28
+419
+	NA
+AMD Athlon TF-20
+416
+	NA
+Mobile AMD Sempron 3100+
+416
+	NA
+Intel Core2 Solo U3300 @ 1.20GHz
+415
+	NA
+Intel Pentium M 1.73GHz
+415
+	NA
+Intel Celeron M 440 @ 1.86GHz
+414
+	NA
+AMD Athlon 2100+
+412
+	NA
+Mobile AMD Sempron 3500+
+411
+	NA
+AMD Athlon Neo MV-40
+411
+	NA
+AMD Turion 64 Mobile ML-32
+410
+	NA
+VIA Nano U3300@1200MHz
+409
+	NA
+Intel Celeron 723 @ 1.20GHz
+408
+	NA
+AMD Sempron 3000+
+408
+	$20.00
+Intel Pentium SU2700 @ 1.30GHz
+407
+	NA
+Intel Pentium M 1.80GHz
+406
+	NA
+Intel Atom D2500 @ 1.86GHz
+406
+	NA
+AMD Athlon 2650e
+406
+	$19.00*
+Intel Pentium M 1.70GHz
+405
+	NA
+Intel Celeron D 365 @ 3.60GHz
+404
+	$89.95*
+AMD K7
+403
+	NA
+AMD-K7
+403
+	NA
+AMD Turion 64 Mobile ML-30
+402
+	NA
+AMD Sempron 3200+
+402
+	$13.00
+AMD Athlon XP 3000+
+402
+	$78.00
+AMD Athlon XP2200+
+401
+	NA
+AMD GX-210JA SOC
+401
+	NA
+Intel Xeon 2.80GHz
+400
+	NA
+Mobile AMD Athlon 64 2700+
+398
+	NA
+AMD Athlon XP 2800+
+398
+	NA
+Intel Pentium 4 3.40GHz
+396
+	NA
+AMD Opteron 140
+396
+	$595.50*
+Intel Core Solo T1300 @ 1.66GHz
+395
+	NA
+Intel Core Solo T1350 @ 1.86GHz
+395
+	NA
+VIA Esther 2000MHz
+394
+	NA
+Mobile AMD Sempron 2600+
+394
+	NA
+AMD Athlon XP 2700+
+393
+	$84.79*
+Intel Celeron M 1.70GHz
+393
+	NA
+AMD Sempron 2100+
+392
+	NA
+Intel Xeon 3.00GHz
+391
+	NA
+AMD Athlon XP2400+
+391
+	NA
+AMD Turion 64 Mobile ML-28
+390
+	NA
+AMD Athlon 2000+
+390
+	NA
+Mobile AMD Sempron 3000+
+389
+	NA
+AMD Sempron 3500+
+384
+	$166.80*
+AMD Sempron 2800+
+384
+	$59.95
+AMD Sempron 210U
+382
+	NA
+Intel Atom Z550 @ 2.00GHz
+381
+	NA
+VIA Nano L2007@1600MHz
+381
+	NA
+AMD Athlon 64 FX-34
+380
+	NA
+AMD Turion 64 Mobile MT-30
+378
+	NA
+Mobile AMD Athlon MP-M 2000+
+378
+	NA
+VIA Nano U2250 (1.6GHz Capable)
+377
+	NA
+Intel Pentium M 1700MHz
+376
+	NA
+Intel Pentium 4 3.20GHz
+375
+	NA
+AMD Athlon 2500+
+374
+	$84.99*
+AMD Athlon 64 2600+
+374
+	NA
+AMD Sempron 2600+
+374
+	$29.95
+Mobile AMD Athlon XP-M (LV) 2200+
+373
+	NA
+AMD Athlon XP 2600+
+372
+	$23.03*
+Mobile AMD Athlon XP-M 2600+
+370
+	NA
+Mobile AMD Athlon 2500+
+370
+	NA
+Intel Celeron 807UE @ 1.00GHz
+369
+	NA
+VIA C7-D 2000MHz
+368
+	NA
+Intel Pentium M 1.50GHz
+367
+	NA
+AMD Athlon XP Pro3+
+367
+	NA
+Intel Celeron M 430 @ 1.73GHz
+367
+	NA
+Mobile AMD Athlon XP-M 3000+
+365
+	NA
+Mobile AMD Athlon XP-M 2800+
+365
+	NA
+Intel Celeron M 1.60GHz
+365
+	NA
+Intel Pentium M 1.60GHz
+364
+	NA
+Mobile AMD Athlon XP-M 2200+
+364
+	NA
+AMD Athlon 2200+
+363
+	$79.99*
+Intel Atom E3815 @ 1.46GHz
+362
+	$129.99
+AMD Athlon XP 2400+
+360
+	$89.99*
+Mobile AMD Athlon 4 2400+
+358
+	NA
+Mobile AMD Sempron 2800+
+358
+	NA
+Mobile Intel Pentium 4 3.20GHz
+356
+	NA
+AMD Athlon XP 2500+
+355
+	NA
+Intel Pentium M 1500MHz
+354
+	NA
+Mobile AMD Sempron 3200+
+354
+	NA
+AMD Athlon XP1900+
+353
+	NA
+Intel Pentium 4 3.00GHz
+353
+	NA
+VIA Eden C1050@1.06GHz
+352
+	NA
+Mobile AMD Athlon XP-M 2500+
+351
+	NA
+AMD Athlon 1700+
+349
+	NA
+Intel Atom Z540 @ 1.86GHz
+348
+	NA
+Intel Pentium 4 3.06GHz
+347
+	NA
+Intel Celeron M 1.50GHz
+346
+	NA
+Intel Atom E680 @ 1.60GHz
+346
+	NA
+Mobile AMD Athlon XP-M 2400+
+346
+	NA
+Intel Pentium M 1.40GHz
+345
+	NA
+Intel Pentium M 1600MHz
+345
+	NA
+AMD Athlon XP 1700
+344
+	NA
+Mobile AMD Athlon XP-M 1900+
+342
+	NA
+Intel Atom D425 @ 1.80GHz
+340
+	$992.98*
+Intel Celeron M 420 @ 1.60GHz
+339
+	NA
+AMD Athlon MP 1700+
+339
+	NA
+Mobile Intel Pentium 4 3.06GHz
+337
+	NA
+AMD Sempron 2500+
+335
+	$79.95*
+Mobile AMD Athlon XP-M (LV) 2000+
+335
+	NA
+Intel Celeron D 360 @ 3.46GHz
+334
+	NA
+Intel Celeron 3.33GHz
+333
+	NA
+Intel Celeron M 1500MHz
+332
+	NA
+Intel Core Solo U1500 @ 1.33GHz
+330
+	NA
+AMD Athlon TF-36
+329
+	NA
+AMD Athlon XP 2200+
+327
+	$84.95*
+Intel Celeron M 360 1.40GHz
+327
+	NA
+AMD Athlon XP 2100+
+323
+	NA
+Mobile AMD Athlon XP-M 1700+
+323
+	NA
+Intel Celeron 215 @ 1.33GHz
+322
+	NA
+Intel Pentium 4 2.80GHz
+322
+	NA
+Intel Pentium M 1400MHz
+321
+	NA
+Intel Celeron 220 @ 1.20GHz
+320
+	NA
+AMD E-240
+318
+	NA
+AMD Sempron 2300+
+318
+	$45.00*
+Intel Celeron M 1.30GHz
+316
+	NA
+Intel Celeron D 356 @ 3.33GHz
+315
+	NA
+Intel Celeron M 410 @ 1.46GHz
+315
+	NA
+Mobile Intel Pentium 4 2.80GHz
+315
+	NA
+Intel Atom N475 @ 1.83GHz
+314
+	NA
+Mobile AMD Athlon 4
+314
+	$86.99*
+Mobile Intel Pentium 4 - M 2.60GHz
+313
+	NA
+AMD Sempron 2400+
+313
+	$27.00*
+AMD Athlon XP 1900+
+312
+	NA
+Mobile AMD Athlon XP-M 1800+
+312
+	NA
+Intel Core2 Solo U2200 @ 1.20GHz
+311
+	NA
+AMD C-30
+310
+	NA
+Intel Atom D410 @ 1.66GHz
+310
+	$635.99*
+Intel Atom N2100 @ 1.60GHz
+309
+	NA
+Intel Pentium III 1266S @ 1266MHz
+309
+	NA
+Mobile Intel Celeron 1333MHz
+309
+	NA
+Intel Atom N470 @ 1.83GHz
+307
+	NA
+Intel Atom 230 @ 1.60GHz
+307
+	NA
+AMD Athlon L110
+306
+	NA
+VIA Nano U2500@1200MHz
+306
+	NA
+Intel Celeron D 352 @ 3.20GHz
+305
+	NA
+Intel Pentium M 1300MHz
+303
+	NA
+Intel Core2 Solo U2100 @ 1.06GHz
+303
+	NA
+Intel Celeron M 1300MHz
+303
+	NA
+Intel Pentium 4 2.93GHz
+303
+	NA
+AMD G-T52R
+303
+	NA
+Intel Celeron 1400MHz
+302
+	NA
+Intel Pentium M 1.30GHz
+301
+	NA
+Intel Pentium III 1400S @ 1400MHz
+301
+	NA
+Mobile AMD Athlon XP-M 2000+
+300
+	NA
+AMD Athlon XP 1800+
+300
+	$58.95*
+AMD Athlon XP 2000+
+299
+	$24.99*
+Intel Pentium M 1.20GHz
+298
+	NA
+Intel Atom N450 @ 1.66GHz
+298
+	NA
+Intel Pentium III 1400 @ 1400MHz
+297
+	NA
+VIA Nano L2207@1600MHz
+296
+	NA
+Mobile AMD Athlon XP-M (LV) 1600+
+296
+	NA
+Mobile AMD Athlon MP-M 2400+
+295
+	NA
+Mobile Intel Celeron 1200MHz
+294
+	NA
+AMD Athlon 1500+
+294
+	NA
+AMD Geode NX 1750
+291
+	NA
+Intel Celeron 1333MHz
+290
+	NA
+Mobile Intel Pentium III - M 1133MHz
+289
+	NA
+Mobile Intel Pentium III - M 1333MHz
+289
+	NA
+Intel Celeron 3.20GHz
+289
+	NA
+Mobile AMD Athlon XP-M (LV) 1500+
+288
+	NA
+Intel Pentium 4 2.60GHz
+288
+	NA
+686 Gen
+288
+	NA
+Intel Celeron 1300MHz
+288
+	NA
+AMD Athlon 7850 Dual-Core 2.8G
+288
+	NA
+VIA C7-D 1500MHz
+287
+	NA
+AMD Athlon XP2100+
+287
+	NA
+Intel Atom N280 @ 1.66GHz
+286
+	NA
+Intel Atom N455 @ 1.66GHz
+286
+	NA
+Intel Celeron 2.93GHz
+285
+	NA
+Intel Celeron 3.06GHz
+284
+	NA
+Intel Pentium III 1133 @ 1133MHz
+284
+	NA
+VIA C7 1500MHz
+284
+	NA
+Intel Celeron 1133MHz
+282
+	NA
+Intel Pentium M 1.10GHz
+282
+	NA
+Intel Core Solo U1400 @ 1.20GHz
+282
+	NA
+AMD Athlon XP 1500
+282
+	NA
+AMD Athlon XP1600+
+281
+	NA
+Mobile Intel Celeron 2.50GHz
+281
+	NA
+Intel Atom Z530 @ 1.60GHz
+281
+	NA
+AMD Sempron 2200+
+281
+	$29.99*
+AMD Athlon 4
+279
+	$73.60
+Mobile Intel Pentium 4 2.66GHz
+279
+	NA
+Intel Pentium III 1200 @ 1200MHz
+278
+	NA
+Mobile Intel Pentium 4 2.30GHz
+278
+	$43.56*
+Intel Celeron D 347 @ 3.06GHz
+276
+	NA
+Intel Core Solo U1300 @ 1.06GHz
+276
+	NA
+Intel Xeon 2.40GHz
+276
+	$9.10*
+VIA Nano U3500@1000MHz
+275
+	NA
+Intel Celeron M 1200MHz
+275
+	NA
+AMD V105
+274
+	NA
+VIA Nano U2250@1300+MHz
+274
+	NA
+Intel Atom E660 @ 1.30GHz
+271
+	$54.00*
+Intel Atom N270 @ 1.60GHz
+270
+	NA
+AMD Athlon XP 1700+
+269
+	NA
+Intel Pentium III Mobile 1066MHz
+268
+	NA
+AMD Sempron 200U
+267
+	$87.00*
+AMD Athlon XP 1600+
+267
+	NA
+Mobile AMD Athlon 1400+
+266
+	NA
+Mobile AMD Athlon MP-M 1800+
+265
+	NA
+AMD Geode NX
+264
+	NA
+Mobile Intel Pentium 4 2.40GHz
+264
+	NA
+Mobile Intel Pentium III - M 1200MHz
+263
+	NA
+Intel Pentium III Mobile 1200MHz
+262
+	NA
+Mobile AMD Athlon XP-M 1500+
+261
+	NA
+Intel Celeron 1066MHz
+259
+	NA
+Intel Pentium M 1100MHz
+259
+	NA
+Mobile AMD Athlon XP-M 1600+
+257
+	NA
+AMD Athlon XP 1500+
+257
+	NA
+Mobile Intel Pentium 4 - M 2.50GHz
+256
+	NA
+Intel Pentium 4 2.66GHz
+254
+	NA
+Intel Celeron 2.80GHz
+253
+	NA
+Intel Celeron M 443 @ 1.20GHz
+253
+	NA
+Intel XEON 2.20GHz
+252
+	NA
+Mobile AMD Sempron 2100+
+252
+	NA
+Intel Pentium III Mobile 1133MHz
+251
+	NA
+Intel Celeron 2.66GHz
+250
+	NA
+VIA Esther 1300MHz
+250
+	NA
+Intel Celeron 2.50GHz
+250
+	NA
+Mobile Intel Pentium III - M 1000MHz
+250
+	NA
+Intel Atom Z670 @ 1.50GHz
+249
+	NA
+Intel Pentium 4 2.53GHz
+248
+	NA
+Intel Pentium III Mobile 1000MHz
+245
+	NA
+Intel Pentium 4 2.50GHz
+245
+	NA
+Intel Celeron 2.53GHz
+245
+	NA
+Intel Celeron 2.70GHz
+245
+	NA
+Intel Celeron 2.10GHz
+244
+	NA
+Intel Celeron 1200MHz
+244
+	NA
+Intel Celeron 1000MHz
+241
+	NA
+Mobile Intel Celeron 2.40GHz
+239
+	NA
+Intel Celeron 2.60GHz
+238
+	NA
+Intel Pentium III 933S @ 933MHz
+238
+	NA
+Intel Pentium M 1200MHz
+237
+	NA
+Intel Atom N435 @ 1.33GHz
+236
+	NA
+AMD Athlon XP1700+
+234
+	NA
+Intel Xeon 2.00GHz
+233
+	NA
+Intel Pentium M 1000MHz
+233
+	NA
+Mobile Intel Pentium 4 - M 1.90GHz
+232
+	NA
+AMD Athlon MP
+230
+	$54.95*
+Intel Pentium 4 2.40GHz
+228
+	NA
+AMD G-T44R
+227
+	NA
+Intel Celeron 2.30GHz
+227
+	NA
+Mobile Intel Celeron 2.20GHz
+226
+	NA
+Intel Celeron 2.26GHz
+223
+	NA
+VIA C7-M 6300MHz
+222
+	NA
+Intel Pentium 4 2.26GHz
+221
+	NA
+VIA Esther 1500MHz
+219
+	NA
+Intel Pentium III Mobile 933MHz
+218
+	$25.51*
+Intel Atom Z515 @ 1.20GHz
+218
+	NA
+Intel Celeron 2.40GHz
+218
+	NA
+Intel Pentium M 900MHz
+217
+	NA
+Intel Atom Z520 @ 1.33GHz
+215
+	NA
+Mobile Intel Pentium 4 - M 2.40GHz
+213
+	NA
+Intel Celeron 2.20GHz
+213
+	NA
+Mobile Intel Pentium III - M 866MHz
+211
+	NA
+Intel Celeron 2.13GHz
+210
+	NA
+Intel Pentium 4 2.20GHz
+210
+	NA
+Intel Pentium 4 Mobile 1.90GHz
+209
+	NA
+Mobile Intel Pentium 4 - M 2.20GHz
+209
+	NA
+Intel Pentium 4 Mobile 1.70GHz
+208
+	NA
+Intel Celeron M 900MHz
+207
+	NA
+Intel Celeron M 1.00GHz
+207
+	$30.80
+Mobile Intel Celeron 2.00GHz
+204
+	NA
+Intel Pentium 4 Mobile 2.00GHz
+202
+	NA
+Mobile Intel Pentium 4 - M 2.00GHz
+202
+	NA
+VIA C7-D 1800MHz
+201
+	NA
+Mobile Intel Pentium III - M 933MHz
+200
+	NA
+Intel Pentium 4 Mobile 1.50GHz
+197
+	NA
+Mobile Intel Pentium 4 - M 1.60GHz
+195
+	NA
+Intel Atom Z510 @ 1.10GHz
+194
+	$45.00*
+Intel Xeon 1500MHz
+193
+	NA
+Intel Pentium 4 1600MHz
+193
+	$647.45*
+Intel Pentium 4 2.00GHz
+189
+	NA
+Mobile Intel Celeron 1.50GHz
+188
+	NA
+Mobile Intel Celeron 1.60GHz
+188
+	NA
+Intel Celeron B710 @ 1.60GHz
+186
+	NA
+Mobile Intel Pentium 4 - M 1.80GHz
+186
+	NA
+Mobile Intel Celeron 1.80GHz
+186
+	NA
+Intel Pentium 4 4.00GHz
+184
+	NA
+Intel Celeron 2.00GHz
+184
+	NA
+Mobile AMD Athlon XP-M 1400+
+184
+	NA
+Intel Celeron M ULV 800MHz
+184
+	NA
+Intel Pentium III Mobile 800MHz
+182
+	NA
+Mobile Intel Celeron 1.70GHz
+181
+	NA
+Intel Pentium 4 Mobile 1.60GHz
+178
+	NA
+VIA C7-M 1600MHz
+178
+	NA
+Intel Pentium 4 Mobile 1.80GHz
+175
+	NA
+Intel Celeron 1100MHz
+174
+	NA
+Mobile Intel Pentium 4 - M 1.70GHz
+173
+	$191.50
+Mobile Intel Celeron 1.20GHz
+170
+	NA
+VIA Esther 1000MHz
+169
+	NA
+Intel Pentium 4 1.40GHz
+164
+	NA
+VIA C7-M 1000MHz
+164
+	NA
+Intel Pentium 4 1800MHz
+162
+	NA
+Intel Pentium 4 1.80GHz
+161
+	NA
+Intel Pentium 4 1.90GHz
+159
+	NA
+VIA Eden 800MHz
+155
+	NA
+VIA Nehemiah
+155
+	NA
+Intel Pentium 4 1700MHz
+154
+	NA
+Intel Pentium III Mobile 866MHz
+152
+	NA
+Intel Celeron M 600MHz
+151
+	NA
+Intel Pentium 4 Mobile 1.40GHz
+149
+	NA
+Intel Celeron 600MHz
+147
+	NA
+VIA Eden 1200MHz
+142
+	NA
+VIA C7-M 1200MHz
+140
+	NA
+Intel Celeron 1.80GHz
+136
+	NA
+Intel Pentium 4 1.70GHz
+133
+	NA
+Intel Pentium 4 1.50GHz
+131
+	NA
+Intel Celeron 1.70GHz
+130
+	NA
+Intel Pentium 4 1.60GHz
+129
+	NA
+Intel Pentium 4 1400MHz
+127
+	NA
+Intel Pentium 4 1500MHz
+125
+	NA
+Intel Pentium 4 1300MHz
+119
+	NA
+AMD Athlon 64 2000+
+116
+	NA
+AMD-K6-III
+108
+	NA
+Intel Pentium III Mobile 750MHz
+103
+	NA
+VIA C3 Ezra
+100
+	NA
+AMD-K6 3D
+90
+	NA
+VIA Samuel 2
+79
+	NA
